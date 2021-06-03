@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The principal acts of the General Assembly of the Church of Scotland conveened at Edinburgh, January 11. 1698 / collected and extracted from the records, by the clerk thereof.</title>
+            <author>Church of Scotland. General Assembly.</author>
+         </titleStmt>
+         <extent>Approx. 95KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20348</idno><idno type="EEBO-CITATION">19334847</idno>
+  <idno type="VID">108667</idno>
+  <idno type="EEBO-PROQUEST">2248569056</idno>
+  
+            <idno type="STC">Wing C4249</idno>
+            <idno type="STC">ESTC R15412</idno>
+            <idno type="OCLC">19334847</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20348)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108667)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1683:60, 733:37e)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The principal acts of the General Assembly of the Church of Scotland conveened at Edinburgh, January 11. 1698 / collected and extracted from the records, by the clerk thereof.</title>
+                  <author>Church of Scotland. General Assembly.</author>
+               </titleStmt>
+               <extent>29, [7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Mosman ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>M.DC.XCVIII. [1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: a burning bush within a circle, with caption, "Nec tamen consumebatur", signed, Ja. Clark sculp.</note>
+                  <note>This item is fifth in a group of eight items bound and filmed together, at reel 733:37e.</note>
+                  <note>Reproduction of originals in: Henry E. Huntington LIbrary and Art Gallery (reel 733:37e) and British Library (reel 1683:60).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  Government.</term>
+               <term type="corporate_name">Church of Scotland --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108667:1"/>
+            <p>THE PRINCIPAL ACTS OF THE <hi>General Assembly</hi> OF THE CHURCH OF SCOTLAND, Conveened at <hi>Edinburgh, January</hi> 20. 1699.</p>
+            <p>
+               <hi>Collected and Extracted from the Records, By the Clerk thereof.</hi>
+            </p>
+            <figure>
+               <q>NEC TAMEN CONSUMEBATUR.</q>
+               <figDesc>emblem of the Church of Scotland</figDesc>
+            </figure>
+            <p>
+               <hi>EDINBƲRGH,</hi> Printed by <hi>George Mosman,</hi> Printer to this CHURCH and Her ASSEMBLIES, <hi>Anno Domini</hi> M.DC,XCIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="acts">
+            <pb facs="tcp:108667:2"/>
+            <pb n="3" facs="tcp:108667:2"/>
+            <head>THE PRINCIPAL ACTS OF THE <hi>General Assembly</hi> OF THE CHURCH OF SCOTLAND, Holden and Begun at <hi>Edinburgh,</hi> the 20 day of <hi>January</hi> and ending the 4th. day of <hi>February</hi> 1699 years.</head>
+            <div n="1" type="act">
+               <head>I. <hi>The Recording of His Majestie's Commission, To the Lord</hi> CARMICHAEL, <hi>for Representing His</hi> MAJESTY <hi>in this Assembly.</hi>
+               </head>
+               <head type="sub">At Edinburgh, January <hi>20, 1699. Sess. 1.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>HIS Day, The General Assembly of the Ministers and Elders of this Na<g ref="char:EOLhyphen"/>tional Church, being Conveened, There was produced to them, by a Noble Lord, <hi>JOHN</hi> Lord <hi>Car<g ref="char:EOLhyphen"/>michael,</hi> His Majestie<hi>'s Commission,</hi> under the great Seal of this King<g ref="char:EOLhyphen"/>dom, Nominating and Appointing Him to be His Majestie's High Commissioner and Representative in this National As<g ref="char:EOLhyphen"/>sembly, which was publickly Read in their Audience, with all due Honour and Respect, and the General As<g ref="char:EOLhyphen"/>sembly
+<pb n="4" facs="tcp:108667:3"/>Appointed, and hereby Appoints, the same to be Recorded in the Registers of this Assembly, therein to remain <hi>ad futuram rei Memoriam;</hi> The <hi>Tenor</hi> whereof fol<g ref="char:EOLhyphen"/>lows.</p>
+               <p>
+                  <hi>GƲLIELMƲS</hi> Dei Gratia, Magnae <hi>Britanniae, Fran<g ref="char:EOLhyphen"/>ciae</hi> &amp; <hi>Hiberniae</hi> Rex, Fideique Defensor: <q>Omnibus probis Hominibus suis, ad quos praesentes Literae No<g ref="char:EOLhyphen"/>strae pervenerint, <hi>Salutem,</hi> Quandoquidem Generalem Ecclesiae Conventum, Antiquioris Regni nostri <hi>Sco<g ref="char:EOLhyphen"/>tiae vicesimo</hi> die Mensis <hi>Januarii</hi> instantis teneri de<g ref="char:EOLhyphen"/>crevimus, Nosque item abunde cupidi, quin etiam ne<g ref="char:EOLhyphen"/>cessarium esse Judicantes in commodum dictae Ecclesiae, ut idem <hi>Generalis Conventus</hi> Die statuto observetur, sed rebus magni momenti alio vocantibus, dicto conventui inter<g ref="char:EOLhyphen"/>esse nequimus, Cumque Fidelissimus &amp; Dilectissimus noster Consiliarius <hi>Joannes Dominus Carmichael,</hi> perpluri<g ref="char:EOLhyphen"/>ma praeclara edidit specimina de Facultatibus suis exi<g ref="char:EOLhyphen"/>miis, &amp; fidelitate insigni, unde nobis abunde Satisfactum est, Quod ad munera summi Officii Infra mentionati ri<g ref="char:EOLhyphen"/>te Exercenda &amp; obeunda, in finem supra expressum usquequaque est idoneus. Noveritis igitur nos fecisse &amp; Constituisse, sicuti per hasce nostras patentes literas fa<g ref="char:EOLhyphen"/>cimus &amp; constituimus Eundem <hi>Joannem Dominum Car<g ref="char:EOLhyphen"/>michael,</hi> Supremum Nostrum Commissionarium quoad Effectum infra expressum; Damus pariter &amp; concedi<g ref="char:EOLhyphen"/>mus illi, Sacram nostram personam, &amp; Authoritatem Nostram Regalem Representandi, praesentiam no<g ref="char:EOLhyphen"/>stram supplendi, locumque nostrum in dicto Subsequen<g ref="char:EOLhyphen"/>ti Generali Conventu, tanquam Commissionario nostro in hunc Effectum, specialiter constituto tenendi, omnia<g ref="char:EOLhyphen"/>que alia ad Imperium &amp; munus Commissionarii, pro Generali Ecclesiae Conventu peragendi, tam plene, adeo<g ref="char:EOLhyphen"/>que libere, in quovis respectu, quam Quilibet alius ejus<g ref="char:EOLhyphen"/>dem Supremi muneris &amp; Characteris fecerat, seu quovis tempore retroacto facere poterat; atque sicuti Nos ipsi personaliter praesentes facere poterimus, Plenissimam &amp; Amplissimam nostram potestatem &amp; Commissionem. Quaequidem omnia &amp; singula, a dicto <hi>Joanne Domino Carmichael,</hi> in hac nostra Commissione prosequenda le<g ref="char:EOLhyphen"/>gitime facienda, Nos firmiter Approbamus, Rata habe<g ref="char:EOLhyphen"/>mus, &amp; habituri sumus. Omnibus &amp; Singulis insuper ante dicti Conventus &amp; Ecclesiae Pastoribus &amp; Pres<g ref="char:EOLhyphen"/>byteris, &amp; caeteris quibuscunque hujus Regni subditis, cujuscunque qualitatis &amp; conditionis, ut dictum <hi>Joannem Dominum Carmichael,</hi> tanquam Supremum nostrum Commissionarium quoad Effectum &amp; modum supra men<g ref="char:EOLhyphen"/>tionatum Agnoscant, Revereantur, &amp; dicto ipsius au<g ref="char:EOLhyphen"/>dientes se praebeant, stricte mandamus, &amp; imperamus.
+<pb n="5" facs="tcp:108667:3"/>Ac denique hanc Nostram Commissionem, a die quo magnum Nostrum Sigillum hujus Regni praesentibus est appensum, &amp; deinceps hac Sessione sequenti Generalis Conventus antedicti in vigore continuare declaravimus, &amp; per praesentes Declaramus, Saltem usque dum a No<g ref="char:EOLhyphen"/>bis revocabitur. In cujus rei Testimonium, praesenti<g ref="char:EOLhyphen"/>bus Magnum Sigillum Nostrum appendi praecepimus. Apud Aulam nostram de <hi>Kensingtoun,</hi> septimo die men<g ref="char:EOLhyphen"/>sis <hi>Januarii.</hi> Anno Domini Millesimo Sexcentesimo Nonagesimo Nono, Regnique nostri Anno Decimo.</q>
+               </p>
+               <p>
+                  <hi>Per signaturam manu</hi> S. D. N. <hi>Regis suprasignatam.</hi>
+               </p>
+               <list>
+                  <item>Locus</item>
+                  <item>Sigilli</item>
+                  <item>Appensi</item>
+               </list>
+               <p>IN DORSO.</p>
+               <p>
+                  <hi>Written to the great Seal, and Registrat the eighteenth day of</hi> January 1699. Charles Ker.</p>
+               <p>
+                  <hi>Sealed at</hi> Edinburgh, <hi>the ninteenth day of</hi> Ja<g ref="char:EOLhyphen"/>nuary 1699. A. Home.</p>
+            </div>
+            <div n="2" type="act">
+               <head>II. His <hi>MAJESTIE'S</hi> gracious LETTER TO THE <hi>GENERAL ASSEMBLY</hi>
+               </head>
+               <head type="sub">Eadem Sessione.</head>
+               <p>THE which Day, His <hi>MAJESTIE'S</hi> High COMMISSIONER presented His <hi>Majestie</hi>'s Most Gracious LETTER, Directed to this <hi>General Assembly,</hi> which was publickly Read in their Hearing, with all due Honour and Respect, and appoint<g ref="char:EOLhyphen"/>ed to be Recorded in their Registers, The Tenor whereof follows.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="6" facs="tcp:108667:4"/>
+                     <opener>
+                        <salute>
+                           <hi>WILLIAM</hi> R.</salute>
+                     </opener>
+                     <p>RIGHT Reverend, and well Beloved, We Greet you well, We have thought fit to allow and Countenance your Meeting at this time, that you may have the Opportunity, to do what is necessary for promoting Religion, and Regulat<g ref="char:EOLhyphen"/>ing Order and Discipline; And We do again earnest<g ref="char:EOLhyphen"/>ly recommend to you, to fall upon effectual Methods for planting Vacant Churches, with Pious and Learned Mi<g ref="char:EOLhyphen"/>nisters, which is so necessary for suppressing Error and Im<g ref="char:EOLhyphen"/>morality; In the doing whereof, you shall have from us all due Encouragement and Assistance. We have again chosen Our right Trusty and entirely Beloved Counsellour <hi>John</hi> Lord <hi>Carmichael</hi> to be Our Commissioner, and to repre<g ref="char:EOLhyphen"/>sent Our Royal Person in this Assembly: and as We have sufficient experience of his Fidelity to Us, and of his Abilities and Fitness to Discharge this Trust; So we know that he is acceptable unto you. We have fully instructed him in all things that we think needful, and therefore you may give him entire Trust and Credit. We are well satisfied with your proceedings in the former Assembly, and We doubt not, but your Management in this will be sutable to Our Expectation, We leave what farther is necessary to Our Commissioner, and We assure you of Our Royal Protection and Assistance in all your Concerns, and so we bid you heartily Farewell.</p>
+                     <p>
+                        <hi>Given at Our Court at</hi> Kensingtoun, <hi>the</hi> 7th, <hi>Day of</hi> January 1696/9. And of Our Reign the Tenth Year.</p>
+                     <closer>
+                        <salute>
+                           <hi>By His Majestie</hi>'s Command.</salute>
+                        <signed>Seafeild.</signed>
+                        <salute>
+                           <hi>To the Right Reverend, and Well Beloved, Ministers and Elders mett in the</hi> General Assembly <hi>of the Church of</hi> Scotland.</salute>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div n="3" type="act">
+               <pb n="7" facs="tcp:108667:4"/>
+               <head>III. <hi>The General Assemblies Answer.</hi> TO His <hi>Majestie</hi>'s Gracious Letter</head>
+               <head type="sub">Edinburgh, January 24 1699. <hi>Post Meridiem</hi> Sess. 4.</head>
+               <opener>
+                  <salute>May it please Your Majesty,</salute>
+               </opener>
+               <p>THE Renewed Testimonies of Your Majesty's care and concern for this Church, so amply sig<g ref="char:EOLhyphen"/>nified by your Gracious Letter, are received by Us with all Satisfaction and Acknowledgment; And cannot but engage Us to double our Diligence in Pro<g ref="char:EOLhyphen"/>secuting the Duties of promoting Religion, Order and Discipline, Planting of Vacant Churches, and Suppres<g ref="char:EOLhyphen"/>sing of Error and Immorality, which Your Majesty par<g ref="char:EOLhyphen"/>ticularly Recommends, with the most obliging Assur<g ref="char:EOLhyphen"/>ances of all due encouragement and Assistance.</p>
+               <p>What Your Majesty recommended to the last Assem<g ref="char:EOLhyphen"/>bly as to the Planting of the <hi>North;</hi> hath been minded by them, and their Commission and Committees im<g ref="char:EOLhyphen"/>powered for that effect, to the remotest parts of the King<g ref="char:EOLhyphen"/>dom, and even to the Isles of <hi>Orknay</hi> and <hi>Zetland</hi> with a considerable progress: And We are firmly re<g ref="char:EOLhyphen"/>solved to continue Our best endeavours for accomplishing so good and necessary a Work; Nor can We omit to notice that Your Majesties Royal Bounty, did very sea<g ref="char:EOLhyphen"/>sonably contribute, to make Our Labours in that matter more easy and effectual.</p>
+               <p>Nothing can be more rejoyceing to Us, Then to see Your Majestie's Zeal against Error and Immorality, which make Us presume to beg, for Your renewed Com<g ref="char:EOLhyphen"/>mands to those concerned, that Your excellent Laws against Prophanity (that to Our great Greif still grows) may be put to vigorous Execution, without exception, And we earnestly pray and hope, that GOD who pre<g ref="char:EOLhyphen"/>served Your Majesty, during a long and dangerous War, and Blessed Your Conduct and Valour, with the con<g ref="char:EOLhyphen"/>clusion of a happy Peace; will still support, and assist Your Royal Endeavours, in reforming the manners of this Profligat Age, and preserve You till that great Work be accomplished.</p>
+               <pb n="8" facs="tcp:108667:5"/>
+               <p>We do also acknowledge the good choise, that it hath pleased Your Majesty to make of the Lord <hi>Carmichael,</hi> to represent Your Royal Person in this Assembly; whose faithfulness to Your Majesty, as well as his kind affection to Us, do render him most acceptable.</p>
+               <p>That Your Majestie's Reign may be long and happy, that all Your Subjects may continually make suitable re<g ref="char:EOLhyphen"/>turns of Duty, and gratitude, for all the Labours and dangers You have undergone, for their Tranquillity: And that Truth and Peace may ever flourish in Your Dayes, are, and shall be the fervent Prayers of.</p>
+               <closer>
+                  <salute>
+                     <hi>May it please Your</hi> MAJESTY, <hi>Your MAJESTIE'S Most Faithful,</hi> Most Obedient, and Most Humble Subjects, <hi>The Ministers and Elders, met in this National Assembly of the Church of</hi> Scotland.</salute>
+                  <salute>
+                     <hi>Signed in Our Presence, in Our Name, and at Our Appointment.</hi> By</salute>
+                  <signed>George Hamilton <hi>Moderator.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div n="4" type="act">
+               <head>IV. <hi>Act annexing some parishes to the Presbytries of</hi> Stranrauer <hi>and</hi> Wigton.</head>
+               <head type="sub">Eadem Sessione.</head>
+               <p>THE General Assembly having heard and consider<g ref="char:EOLhyphen"/>ed, the Opinion of the Committee for Overtures; Did by their Vote disjoin the Parishes of <hi>Ballintrae</hi> and <hi>Calmonel,</hi> from the Presbytry of <hi>Aire,</hi> and annexes them to the Presbytry of <hi>Stranrauer;</hi> and likeways disjoines the Parishes of <hi>Kirkmabreck, Kells, Dalry</hi> and <hi>Carsefairn</hi> from the Presbytry of <hi>Kirkcubright,</hi> and annexes them to the Presbytry of <hi>Wigton,</hi> which Presbytry of <hi>Wigton</hi> may meet at <hi>Monygaff</hi> frequently, and this but preju<g ref="char:EOLhyphen"/>dice to the Presbytries of <hi>Air</hi> and <hi>Kirkcubright,</hi> or any others concerned, to be heard against the Continuation
+<pb n="9" facs="tcp:108667:5"/>of this alteration, at the next, or any other ensuing Ge<g ref="char:EOLhyphen"/>neral Assembly: And it is appointed and declared, that this Act, as to the said Dis-union and Annexation, shall commence at the first day of <hi>March</hi> next to come, and the General Assembly ordains the Ministers of the Respective Parishes above-named so dis-joined and annex<g ref="char:EOLhyphen"/>ed, to be advertised hereof, and to give obedience thereto, as they will be answerable, and that Letters be written to the Presbytries concerned for that end.</p>
+            </div>
+            <div n="5" type="act">
+               <head>V. <hi>Act anent Proclamation of Banns.</hi>
+               </head>
+               <head type="sub">Edinburgh, 25 <hi>January</hi> 1699. <hi>Post merid.</hi> Sess. 5.</head>
+               <p>THE General Assembly taking to their consideration, the Overtures past in the last Assembly, dated the 24 day of <hi>January</hi> 1698, Entituled, <hi>Overtures anent Pro<g ref="char:EOLhyphen"/>clamation of Banns.</hi> The Tenor whereof follows.</p>
+               <p>The General Assembly being informed, That several Abuses have crept in, in the way and manner of pro<g ref="char:EOLhyphen"/>claiming the Banns of Persons to be Married; Do for pre<g ref="char:EOLhyphen"/>venting the same, Overture and Declare, that before any Proclamations be made, the Names and Designations of the Persons to be Married, and their Parents, Tutors, or Curators, if they any have, be given up to the Minister of the Bounds, in which any of them live and reside, that thereby it may be known, if their Parents and Friends give consent thereto; And that the Minister being satis<g ref="char:EOLhyphen"/>fied herein, order the Proclamation to be made three se<g ref="char:EOLhyphen"/>veral Sabbaths, which when made, shall be immediat<g ref="char:EOLhyphen"/>ly before Divine Worship begin, in the Forenoon, and the Persons to be proclaimed, their Names and full De<g ref="char:EOLhyphen"/>signations, such as they are designed by in Writes or Con<g ref="char:EOLhyphen"/>tracts of Marriage, be fully and audibly expressed, and that where there are more Churches Collegiat in the place or Town, the Proclamations be made, in all and every one of the Churches, within the City or Town, where they, or any of the Persons to be Married reside; And this to be attested to the Minister that Marries them, with certification of the Censures of the Church against the Transgressours herein.</p>
+               <p>And the General Assembly, having heard the Report of the several Commissioners from Presbytries now present, to whom the consideration of the said Overture was re<g ref="char:EOLhyphen"/>commended
+<pb n="10" facs="tcp:108667:6"/>in order to its being more ripely advised, and determined in this Assembly; And finding that the several Presbytries were satisfied therewith: Therefore this General Assembly by their Vote, unanimously did, and hereby do approve of the saids Overtures, and ap<g ref="char:EOLhyphen"/>points the same to have the full force, and strength of an Act of the General Assembly, in all time coming, and that none may pretend Ignorance, Appoints the same to be intimate in all the Parish Kirks of this Kingdom.</p>
+            </div>
+            <div n="6" type="act">
+               <head>VI. <hi>Act of the</hi> General Assembly <hi>anent a Solemn National Fast and Humiliation.</hi>
+               </head>
+               <head type="sub">At Edinburgh, the 26 January 1699. <hi>Post merid.</hi> Sess. 6.</head>
+               <p>THE General Assembly taking into their serious con<g ref="char:EOLhyphen"/>sideration, That the many grievous and most hain<g ref="char:EOLhyphen"/>ously aggravated <hi>Sins</hi> and <hi>Abominations</hi> abounding and still continuing in this Land, have procured and drawn from the hands of the Just and Holy LORD, the La<g ref="char:EOLhyphen"/>mentable stroak of <hi>Dearth,</hi> and <hi>Ʋnseasonable Weather</hi> in Seed Time and Harvest, which as it hath redacted many Families of the Nation already into great Straits, so if Mercy prevent not, threatens dreadful Famine: As likewayes considering the sadly distressed state of some of the <hi>Reformed Churches Abroad,</hi> under <hi>Grievous Persecution,</hi> and the <hi>Dangerous Condition</hi> of others of them, which loudly call for our humbling our selves for our own Sins, and for sympathy with others, and frequent Prayer for our selves and them: Have therefore thought it a neces<g ref="char:EOLhyphen"/>sary and seasonable Duty, to set a part, and hereby do set a part, and appoint the <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Day of <hi>March</hi> next being <hi>Thursday,</hi> for Solemn Humiliation and Prayer, That GOD would pardon our Sins, turn away and avert his Wrath from this and other Churches, Command De<g ref="char:EOLhyphen"/>liverance for his Afflicted People under persecution, Bless and preserve Our <hi>King,</hi> under whose Government we enjoy so much peace, and Tranquillity and Liberty of Gospel Ordinances, dispensed with purity and freedom; That God may continue the same with Us, and Bless the Gospel with success, grant a Seasonable Seed time, and Bless the Seed with Encrease, that the Poor may be satis<g ref="char:EOLhyphen"/>fied with Bread; Obtesting and beseeching all Ranks of Persons to search and try their ways, and by unfeigned Re<g ref="char:EOLhyphen"/>pentance
+<pb n="11" facs="tcp:108667:6"/>and Reformation, turn to the Lord with all their Heart, that the Lord may return to us, and have Mercy upon us and the Land, and it is most seriously Recom<g ref="char:EOLhyphen"/>mended to all Ministers, to be very explicite and partcu<g ref="char:EOLhyphen"/>lar in the acknowledgement of the National, and Epide<g ref="char:EOLhyphen"/>mick crying Sins, especially these that seem to abound in the Respective places, where Ministers serve. And the General Assembly ordains all Ministers to intimate this pub<g ref="char:EOLhyphen"/>lickly from the Pulpit a Sabbath or two before the said day of Humiliation. And lastly the General Assembly appoint<g ref="char:EOLhyphen"/>ed, and hereby appoints Mr. <hi>William Dunlop,</hi> Mr. <hi>George Meldrum,</hi> Mr. <hi>John Law,</hi> Mr. <hi>Thomas Wilkie,</hi> Mr. <hi>Ga<g ref="char:EOLhyphen"/>briel Semple</hi> Ministers, Mr. <hi>John Campbel</hi> Brother to the Earl of <hi>Argyle,</hi> Sir <hi>John Riddel</hi> of that Ilk, Sir <hi>Thomas Kil<g ref="char:EOLhyphen"/>patrick</hi> of <hi>Closburn,</hi> and <hi>John Alexander</hi> of <hi>Black-House</hi> Ruling Elders, to apply to the Lords of his Majesties Privy Council, for their Civil Sanction to the observation of the said Fast, and leaves it to their Lordships to name the day of the Moneth of <hi>March,</hi> for the said Fast.</p>
+            </div>
+            <div n="7" type="act">
+               <head>VII. <hi>Act against Prophainess,</hi>
+               </head>
+               <head type="sub">At <hi>Edinburgh 30 January 1699.</hi> Ante merid. <hi>Ses. 9.</hi>
+               </head>
+               <p>THE General Assembly taking to their consideration, the Overtures against Prophanness, past by the last Assembly <hi>January</hi> 24. 1698. <hi>Ses.</hi> 15. And hav<g ref="char:EOLhyphen"/>ing heard the Report of Commissioners present, from the several Presbytries of this National Church, to whom the consideration of the saids Overtures were recommended; And the General Assembly being well and ripely advised thereanent, did by their Vote, and hereby do approve of these Overtures after mentioned, whereof the Tenor fol<g ref="char:EOLhyphen"/>lowes.</p>
+               <p n="1">1st. The General Assembly considering the Lamen<g ref="char:EOLhyphen"/>table Grouth of Prophanity, Ignorance and Irreligion, that is too manifest in this Land, and the woful Decay of the Life and Power of Godliness, with the small Success of the Gospel, that's to be observed every where, at this time, the General Assembly, in a deep sense of these things, And for the Remeeding of them, do in the First place, In the
+<pb n="12" facs="tcp:108667:7"/>aw, and dread of GOD, Beseech, Exhort and Require, all Ministers, by the Coming of our LORD <hi>Jesus Christ,</hi> and our gathering together unto him, That they take heed to themselves, and to their Doctrine, and endeavour to be Ensamples to the People, in all Piety, Purity, and Holi<g ref="char:EOLhyphen"/>ness, in all manner of Conversation.</p>
+               <p n="2">2. That they be Frequent and Fervent in Secret pray<g ref="char:EOLhyphen"/>er, for themselves, and the People committed to them, Joining sometime Fasting with prayer. And the General Assembly Recommends to Ministers, and Elders in their several Parishes, and Ministers in their several Presbytries, to meet sometimes together in their Parishes, and Presby<g ref="char:EOLhyphen"/>tries Respective, for private Fasting and Prayer and Con<g ref="char:EOLhyphen"/>ference anent the state of the Church, and that part of it, in which they have special interest; with Respect to the Grouth or Decay of Godliness, and Success of the Gospel therein.</p>
+               <p n="3">3. That Presbytries, be more Accurate in managing their privy Censures, and that a day be set apart to that purpose only, and spent in Fasting and Prayer together.</p>
+               <p n="4">4. That Presbytries be very Cautious, in admitting Intrants to the Ministry, and be Accurate and Exact in the Tryal, not only of their Literature, but of their Piety, Prudence, and former Godly Conversation and Walk.</p>
+               <p n="5">5. That Ministers be painful in Catechising, frequent in Visiting of Families, and in privat Personal Confer<g ref="char:EOLhyphen"/>ence with these of their Charge, about the State of their Souls, and that Ministers be more frequent in administrati<g ref="char:EOLhyphen"/>on of the Lords Supper, and alwise Edifying in their Con<g ref="char:EOLhyphen"/>verse and Discourse, and that they deal with Heads of Fa<g ref="char:EOLhyphen"/>milies to engage them to Piety, and a care to Reform their Families, and to set up, and to keep up the Worship of GOD therein; And in particular, that Ministers endea<g ref="char:EOLhyphen"/>vour by all Prudent and gaining Gospel methods, to engage Persons of Honour and Power to fall in love with Holiness, and reckon it, as in deed it is, their greatest Ho<g ref="char:EOLhyphen"/>nour; And that in dealing with such of them, as are Vi<g ref="char:EOLhyphen"/>tious, an Humble and yet Holy Boldness and Zeal, be us<g ref="char:EOLhyphen"/>ed in admonishing them, in order to their Recovery: And that herein Presbytries appoint some others of their number, to Concur with the Minister of the place as may be most for Edification.</p>
+               <p n="6">6. The General Assembly Recommends, to the Kirk Sessions and Presbytries, the Vigorous, Impartial, and yet Prudent Exercise of Church-Discipline against all Immo<g ref="char:EOLhyphen"/>rality, Especially Drunkeness, and Filthyness, Cursing and Swearing, and Prophaning the Lords day, which too much abound: And that they apply to the Magistrat, for the
+<pb n="13" facs="tcp:108667:7"/>Execution of the Good Lawes, made against Immorality and Prophanness,</p>
+               <p n="7">7. That seing it is observed, that in Burghs, especi<g ref="char:EOLhyphen"/>ally these of greatest Resort, as <hi>Edinburgh,</hi> many sit too late in Taverns especially on the Saturdays night, and Men of Business, pretend they do it for Relaxation of their Mindes; through which some neglect the Publick Worship on the LORDS-Day in the Forenoon; and others attend the Worship drousily: Therefore the General Assembly Recommends to all Ministers, where such sinful customs are, to represent to the People both publickly and privatly the sin and evil thereof, and to call them to Redeem that time, which they have free from Business; And to Em<g ref="char:EOLhyphen"/>ploy it for Converse with GOD about their Souls state, and in preparation for the Sabbath, which will yeeld more delight, than all sensual pleasures can do.</p>
+               <p>And the General Assembly Beseecheth, and Exhorteth all Magistrates of Burghs, to be assistant to Ministers, in Enquiring into, and Reforming such abuses.</p>
+               <p>And siclike the General Assembly, Revives the Act of the General Assembly, dated the 11th, <hi>January</hi> 1697. <hi>Sess.</hi> 8. Entituled Act against Prophanness, and approves of the Overture therein contained anent Censuring such Mini<g ref="char:EOLhyphen"/>sters and Members of Sessions, as are negligent in pursuing Scandals.</p>
+               <p>And the General Assembly Recommends and Enacts, the punctual observation of the saids Acts and Overtures, and obedience thereto by all Presbytries, Ministers, El<g ref="char:EOLhyphen"/>ders and Sessions, as they are concerned, in their several stations, as they will be Answerable.</p>
+            </div>
+            <div n="8" type="act">
+               <head>VIII. <hi>Act against Popery,</hi> Eodem die post meridiem <hi>Ses.</hi> 10.</head>
+               <p>THE General Assembly taking to consideration, the Overtures against Popery past in the last Assem<g ref="char:EOLhyphen"/>bly <hi>January</hi> 24 1698. the Tenor whereof fol<g ref="char:EOLhyphen"/>lowes.</p>
+               <p n="1">1st. That Ministers study Popish Controversies more.</p>
+               <p n="2">
+                  <pb n="14" facs="tcp:108667:8"/>2. That all due endeavours be used, to Unite Pro<g ref="char:EOLhyphen"/>testants amonst themselves, seing the Adversaries get ad<g ref="char:EOLhyphen"/>vantage by our Division.</p>
+               <p n="3">3. That Ministers endeavour Faithfully to watch the Flock committed to them, and by publick Preaching, and private Instruction, and conference, to prevent Apostacie that way.</p>
+               <p n="4">4. That Ministers deal wisely, and convincingly with the Consiences of these that have fallen to popery, and other Corrupt principles, for their Recovery.</p>
+               <p n="5">5. That when other means are ineffectual, Presby<g ref="char:EOLhyphen"/>tries would proceed to Church Censures, when they see it may be for the Edification of the Church.</p>
+               <p n="6">6. That according to the Acts of former General Assemblies, and Acts of Parliament, The Names of po<g ref="char:EOLhyphen"/>pish Priests and Jesuits and Traffequing papists, and of these who have sent their Children to popish Colledges and Countreys, be given in to each provincial Synod, and by them Transmitted as Act <hi>Char.</hi> 2. <hi>Par.</hi> 3. <hi>Cap.</hi> 6.</p>
+               <p n="7">7. That the General Assembly apply to the Privy Coun<g ref="char:EOLhyphen"/>cil for the Vigorous Execution of the Laws against papists, particularly Seminary priests, Popish School-Masters, Mis<g ref="char:EOLhyphen"/>tresses, Governours and Paedagogues, and Popish meet<g ref="char:EOLhyphen"/>ings; and for seeing to the Training up of Popish Youth in the Protestant Religion; In all which, some Inferiour Magistrates are justly complained of, as very defective, and that the said address be presented by such as the Gene<g ref="char:EOLhyphen"/>ral Assembly shall appoint.</p>
+               <p>And the General Assembly having heard the Opinion, of the Commissioners from the several Presbytries, con<g ref="char:EOLhyphen"/>cerning the saids Overtures, and finding that there was no objection made against any thing therein contained, and that application being made to the Lords of His Majesties most Honourable Privy Council, conform to the seventh paragraph of the saids Overtures, their Lordships were graciously pleased to emit a Proclamation thereupon against papists; and the General Assembly being well and ripely advised anent the premisses: They by their Vote unanimosly did, and hereby do approve of the saids Over<g ref="char:EOLhyphen"/>tures, and appoints the same to have the full force and strength of an Act of the General Assembly, and to be ob<g ref="char:EOLhyphen"/>served in all time coming, and ordains Application to be made to the Civil Magistrat conform to the said seventh paragraph, as offen as need requires.</p>
+            </div>
+            <div n="9" type="act">
+               <pb n="15" facs="tcp:108667:8"/>
+               <head>IX. <hi>Ast anent Planting of the</hi> Highlands.</head>
+               <head type="sub">Eadem Sessione.</head>
+               <p>THE General Assembly took to their consideration the Overtures past in the last General Assembly, <hi>January</hi> 24. 1698. <hi>Sess.</hi> 15. Entituled, <hi>Overtures for Plant<g ref="char:EOLhyphen"/>ing the Highlands.</hi> The Tenor whereof follows.</p>
+               <p n="1">1. That Ministers and Probationers, who have the <hi>Irish</hi> Language, be sent to the Highland pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ishes, and that none of them be setled in the Low-Country, till the Highland places be first provided.</p>
+               <p n="2">2. That Ministers and Ruling Elders, who have the <hi>Irish</hi> Language, be appointed to visit these parts.</p>
+               <p n="3">3. That where in any Highland Congregation, many understand <hi>English,</hi> and there used once a day to be a Sermon in <hi>English,</hi> Presbytries be careful to supply them sometimes by preaching in <hi>English;</hi> and that they Cate<g ref="char:EOLhyphen"/>chise them who understand not, by an Interpreter, when they cannot get one to preach to them in <hi>Irish,</hi> and that these, whether Ministers or Probationers, who have some what of the <hi>Irish</hi> Language, but not a facility to preach in it, be sent to these places for the ends forsaid, that by converse they may Learn more of the Language, and ability to instruct therein.</p>
+               <p n="4">4. That <hi>English</hi> School-Masters be erected in all Highland parishes, according to former Acts of Parlia<g ref="char:EOLhyphen"/>ment and General Assemblies: And for this end, The General Assembly Recommends to their Commission, to Address the King and Parliament, to take such course for this, and other pious uses in the more Northern High<g ref="char:EOLhyphen"/>land places, as is granted to these of <hi>Argyle,</hi> and that as they shall think fit.</p>
+               <p n="5">5. That it be recommended to Presbytries and Uni<g ref="char:EOLhyphen"/>versities, to have a special regard in the disposal of their Bursaries for Educating such, as it is hoped may be use<g ref="char:EOLhyphen"/>ful to preach the Gospel in the Highlands: And that the Commission Address the Lords of the Thesaury: and recommend the same to the Town Council of <hi>Edinburgh,</hi> and other Patrons for this end.</p>
+               <p>And the General Assembly having heard the Report, and the Opinion of the Commissioners present from the several Presbytries anent the saids Overtures; did by their Vote, and hereby do unanimously approve thereof, and
+<pb n="16" facs="tcp:108667:9"/>Appoints and Recommends according thereto; With this Addition, that the Presbytries of <hi>Dumbartoun, Dum<g ref="char:EOLhyphen"/>blain, Auchterarder, Dunkeld, Inverness, Abernethy, Aber<g ref="char:EOLhyphen"/>loure, Tain, Dingwall, Dornock</hi> and <hi>Caithness;</hi> are hereby enjoined, to have Bursers, who have the <hi>Highland</hi> Lan<g ref="char:EOLhyphen"/>guage, if they can be had, and that the Universities where such Students are, be wrot to, to give an account what Students having that Language they know of, that deserve encouragement, and that they recommend them to any of the above Presbytries, and that care be taken, that any so to be recommended, be piously disposed, and of sound Principles.</p>
+            </div>
+            <div n="10" type="act">
+               <head>X. <hi>Recommendation to Presbytries and Synods anent Schools.</hi>
+               </head>
+               <head type="sub">Edinburgh, January 31. 1699. <hi>ante meridiem.</hi> Sess. 11.</head>
+               <p>THE General Assembly considering, that there are many good Laws and Acts of Parliament, and Acts of General Assemblies, for erecting Schools in every parish, And wayes laid down for maintaining thereof, and being informed, That notwithstanding thereof, there are several Parishes, even in the <hi>Low-lands,</hi> that wants Schools; There<g ref="char:EOLhyphen"/>fore the General Assembly did, and hereby do, Recom<g ref="char:EOLhyphen"/>mend to the several Presbytries within this National Church to use their endeavours that Schools be erected in every parish within their respective bounds, conform to the Acts of Parliament, and General Assembly, and it's recommended to Synods to make particular enquiry how this Recommendation is observed.</p>
+            </div>
+            <div n="11" type="act">
+               <head>XI. <hi>Overtures for Planting the</hi> North, <hi>with the Approbation thereof.</hi>
+               </head>
+               <head type="sub">Edinburgh, February 3. 1699. <hi>ante meridiem.</hi> Sess. 16.</head>
+               <p>THE which Day, there was read in presence of the General Assembly, the Overtures underwritten, which were transmitted to the General Assembly by their
+<pb n="17" facs="tcp:108667:9"/>Committee for Overtures, and upon the 31 of <hi>January</hi> last, read in open Assembly, and the consideration thereof re<g ref="char:EOLhyphen"/>mitted to the said Committee, and any persons that had any thing to offer thereanent, were desired to attend that Committee, and represent the same to them. The Te<g ref="char:EOLhyphen"/>nor of which Overtures follows.</p>
+               <p n="1">1, That any of the Twenty Probationers, Appoint<g ref="char:EOLhyphen"/>ed by the last General Assembly, who have not obeyed, in going <hi>North,</hi> or not stayed in the <hi>North</hi> 12 moneths, but returned from it, without the allowance of the Pres<g ref="char:EOLhyphen"/>bytry of the bounds, where they were sent, shall upon the desire of that Presbytry, to the Presbytry where they now reside, be sent back to fulfil the 12 moneths.</p>
+               <p n="2">2. That when any of these, who were born on the North side of <hi>Tay,</hi> are licenced by any Presbytry on the south side of <hi>Tay,</hi> he be sent <hi>North</hi> by that Presbytrie, within four moneths after his licencing, and it be re<g ref="char:EOLhyphen"/>mitted to the Commission to appoint the place, to which he should go, and the time of his stay, and that no Proba<g ref="char:EOLhyphen"/>tioners born in the <hi>North</hi> side of <hi>Tay,</hi> be settled in any Con<g ref="char:EOLhyphen"/>gregation as Minister by South <hi>Tay,</hi> until the next Gene<g ref="char:EOLhyphen"/>ral Assembly, unless they be of these who have been 12 moneths in the <hi>North,</hi> according to the appointment of the last General Assembly, but such, who during the 12 moneths of their mission, having received no call from any Congregation in the <hi>North,</hi> are deelared free to come <hi>South,</hi> and accept of an orderly Call from any Congregation in the south side of <hi>Tay;</hi> It's also allowed to the Town of <hi>Edinburgh,</hi> that if they call any North Countrey Probationer, he may be settled in that City, notwithstanding of this Overture.</p>
+               <p n="3">3. And the General Assembly, hereby dischargeth any Presbytry on the south side of <hi>Tay,</hi> to settle any Pro<g ref="char:EOLhyphen"/>bationer born in the North side of <hi>Tay,</hi> within the fore<g ref="char:EOLhyphen"/>said time, except in the cases above excepted; with cer<g ref="char:EOLhyphen"/>tification, that the Presbytry shall be Censured by the Com<g ref="char:EOLhyphen"/>mission or General Assembly, and the Probationer so settled is hereby declared <hi>ipso facto</hi> transportable, and that the Commission of this Assembly appoint him immediatly to repair to the <hi>North,</hi> and any place thereof they think fit, as an extraordinary Supply, and if a Call be given to him, the Commission transport him to the <hi>North.</hi>
+               </p>
+               <p n="4">4. It's Overtur'd that other 20 Probationers be sent this year to the <hi>North</hi> also, and of these Twenty, as ma<g ref="char:EOLhyphen"/>ny as can be had, of such who were born on the North side of <hi>Tay,</hi> and that they be sent in the proportion follow<g ref="char:EOLhyphen"/>ing, <hi>viz.</hi> Three to the Presbytry of <hi>Perth, Auchterarder</hi>
+                  <pb n="18" facs="tcp:108667:10"/>and <hi>Dunkeld,</hi> Six for the Province of <hi>Angus</hi> and <hi>Merns,</hi> be<g ref="char:EOLhyphen"/>cause there are most Vacancies there, Four to the Pro<g ref="char:EOLhyphen"/>vince of <hi>Aberdeen,</hi> Three to the Province of <hi>Murray,</hi> Two to <hi>Ross, Sutherland</hi> and <hi>Caithness,</hi> and Two to <hi>Orkney,</hi> and that there be a Committee of one or two out of each Synod to nominat these Twenty Probationers, or the same referred to the Commission.</p>
+               <p n="5">5. Thar these Probationers, so nominated go how soon possible without delay, to the places to which they are sent, and to stay in the <hi>North</hi> for 12 Moneths, And it's hereby Referred to the Commission, to be appointed by this Assembly, to consider and determine of the Pro<g ref="char:EOLhyphen"/>vinces, they should go to, and of the time of their stay, and abode in each Province.</p>
+               <p n="6">6. That for the encouragement of each Probationer, who shall be thus sent, and to help to defray the Charges of their Journey, The General Assembly, do allow out of the Kings Gift, for defraying the publick Expences of the Church, to these who go to <hi>Perth, Auchterarder</hi> and <hi>Dun<g ref="char:EOLhyphen"/>keld,</hi> 40. <hi>lib.</hi> each one, to these who go to <hi>Angus</hi> 50 <hi>lib.</hi> to these who go to <hi>Aberdeen</hi> 100 <hi>Merks,</hi> to these who go to <hi>Murray</hi> 80 <hi>lib.</hi> to these who go to <hi>Ross, Sutherland</hi> and <hi>Caithness</hi> 100 <hi>lib.</hi> to these who go to <hi>Orknay</hi> 200 <hi>Merks.</hi>
+               </p>
+               <p n="7">7. That these Probationers be obliged to accept of Calls, whether Popular or Presbyterial, when presen<g ref="char:EOLhyphen"/>ted to them by the Presbytries of any of the saids Pro<g ref="char:EOLhyphen"/>vinces, with Certification if they refuse the same, the Presbytries within whose bounds they are called, shall have power to take their Licence from them, un<g ref="char:EOLhyphen"/>till the next Assembly, yet that it be recommended to all Presbytries, not to make use of a <hi>Jus devolutum</hi> for the planting any Congregation till all other means be essayed.</p>
+               <p n="8">8. That besides these Probationers, There be sent from the Synods of the South, some actual Ministers, for the Supply of the <hi>North:</hi> and seing diverse places of the <hi>North</hi> are better planted than formerly, the number of these Ministers to be sent for this year, <hi>for each four Moneths be Eleven,</hi> in manner after following, Five to <hi>Angus</hi> and <hi>Merns,</hi> Four to <hi>Aberdeen</hi> province, Two to <hi>Murray,</hi> out of the Synods following, <hi>viz.</hi> From the Synod of <hi>Merse</hi> and <hi>Teviotdale</hi> Two, to the Province of <hi>Angus;</hi> out of the Sy<g ref="char:EOLhyphen"/>nod of <hi>Lothian</hi> Three, Two to <hi>Aberdeen,</hi> and One to <hi>Murray;</hi> out of the Synod of <hi>Glasgow</hi> Four, Two to <hi>Angus</hi> and two to <hi>Aberdeen;</hi> out of the Synod of <hi>Fife</hi> Two, One to <hi>Murray,</hi> and One to <hi>Angus,</hi> and if the Commission find it needful to send one to <hi>Caithness,</hi> they be empowered to send one from the Synod of <hi>Lothian</hi> for the Moneths of <hi>April, May,</hi> and <hi>June,</hi> and one from the Synod of <hi>Glas<g ref="char:EOLhyphen"/>gow</hi> for <hi>July, August</hi> and <hi>September.</hi>
+               </p>
+               <p n="9">
+                  <pb n="19" facs="tcp:108667:10"/>9. That when an orderly Call, is designed to any Mini<g ref="char:EOLhyphen"/>ster on the South-side of <hi>Tay,</hi> by any of the places privi<g ref="char:EOLhyphen"/>ledged by the 8th Act of the last General Assembly, yet Vacant, the proces of Transportation may be carried on, after the same manner prescribed in the said Act, and the Assembly renewes the Recommendation, mentioned in the said Act, to all Judicatories, who shall have occasion to judge, in any of these Transportations, and that they have a special respect to these places priviledged by the Assem<g ref="char:EOLhyphen"/>bly, when they represent any Call; seing Ministers are freed from the fear of Presbyterial Calls.</p>
+               <p n="10">10. That in regard of the Vacancies of the Town of <hi>Aberdeen,</hi> and that place is so considerable, and of such in<g ref="char:EOLhyphen"/>fluence on the Northern parts, the General Assembly Re<g ref="char:EOLhyphen"/>commends to the Synods of <hi>Lothian</hi> and <hi>Glasgow,</hi> that at least one of their Supplies each quarter, for the Province of <hi>Aberdeen,</hi> be a Grave and Experienced Man, suted for the Supply of the Town of <hi>Aberdeen,</hi> and that when the Town of <hi>Aberdeen</hi> presents a Call to a Minister, before any Church Judicatory, they have a special and tender re<g ref="char:EOLhyphen"/>gard to the Planting of that place; and likewise the Ge<g ref="char:EOLhyphen"/>neral Assembly doth Recommend to, and appoint Mr. <hi>William Moncreif</hi> Minister at <hi>Largo,</hi> to go and Supply the Town of <hi>Aberdeen,</hi> for the Months of <hi>April</hi> and <hi>May,</hi> and this over and besides the ordinary Supply of that Synod.</p>
+               <p n="11">11. That Mr. <hi>Hugh Machendry,</hi> and Mr. <hi>John Mac<g ref="char:EOLhyphen"/>culloch,</hi> be sent to <hi>Angus</hi> or <hi>Perth,</hi> and have the allow<g ref="char:EOLhyphen"/>ance for their Journey out of the Kings Gift.</p>
+               <p n="12">12. That it be referred to the Commission, to send Mr. <hi>Robert Burnet</hi> to <hi>Angus,</hi> after <hi>May</hi> next.</p>
+               <p n="13">13. That seing it is regrated by some who are sent, as Supplies that they have much toill in Traveling, betwixt the Vacant Parishes of the Presbytries of <hi>Strathbogie,</hi> and Presbytrie Seat of <hi>Murray,</hi> Therefore the Assembly Re<g ref="char:EOLhyphen"/>commends to the united Presbytries of <hi>Turref, Fordyce,</hi> and <hi>Alfoord,</hi> to take care of the Supplies of these Vacant Pari<g ref="char:EOLhyphen"/>shes, with the concurrence of Mr. <hi>William Chalmers</hi> Mi<g ref="char:EOLhyphen"/>nister at <hi>Gairtly,</hi> untill the next General Assembly, but that the Planting of these Vacant Parishes, be with the con<g ref="char:EOLhyphen"/>sent and concurrence of the Presbytrie of <hi>Murray;</hi> seing the Presbytrie of <hi>Strathbogie</hi> is within the bounds of the Province of <hi>Murray:</hi> And that it be recommended to the Commission, to send up one Probationer more if they have need, and if any difficulty arise in Planting Parishes, it be referred to the Commission.</p>
+               <p n="14">14. That it be Recommended to Presbytries, to be careful that the allowance granted by the Act of Parlia<g ref="char:EOLhyphen"/>ment to them who Supply the <hi>North,</hi> be punctually payed,
+<pb n="20" facs="tcp:108667:11"/>and that the Presbytrie be careful, to provide commodious places for Ministers and Probationers, where they may re<g ref="char:EOLhyphen"/>side, when sent to Supply any Parish; seing they are to stay there for some time, and to Catechise the People according to 16th, Act of the General Assembly <hi>January</hi> 12. 1697. <hi>Sess.</hi> 10. <hi>&amp; ultima</hi> paragraph. 8.</p>
+               <p n="15">15 That it be Recommended to the Synods of <hi>Drumfrees Merse</hi> and <hi>Glasgow,</hi> to Supply the Presbytries of <hi>Wigtown</hi> and <hi>Stranrawer</hi> with Ministers and Probationers, and that they be careful to send such, as for Prudence and Piety, may be judged fittest for that Countrey, and that it be Re<g ref="char:EOLhyphen"/>commended in particular to Mr. <hi>John Good</hi> Minister of the Gospel, to go to <hi>Galloway,</hi> in case that he be not shortly settled in a Parish else where.</p>
+               <p>And the General Assembly having duely and maturely considered the saids Overtures, They by their Vote un<g ref="char:EOLhyphen"/>animously did, and hereby do approve of the same, and Recommends, Refers, and appoints according thereto, in all points.</p>
+            </div>
+            <div n="12" type="act">
+               <head>XII. <hi>Approbation of the Actings and Proceedings of the Commission, appointed by the General Assembly</hi> 1698.</head>
+               <head type="sub">Edinburgh 3. February 1699. <hi>Post meridem</hi> Sess. 17.</head>
+               <p>THE General Assembly having this day, had Repro<g ref="char:EOLhyphen"/>duced in their presence, the Register of the Actings and Proceedings, of the Commissioners appointed by the last Assembly, and having heard the Report of a Com<g ref="char:EOLhyphen"/>mittee of this Assemblies own number, that were not mem<g ref="char:EOLhyphen"/>bers of the said Commission, but appointed to Revise, Examine, and consider the said Register, with their Ob<g ref="char:EOLhyphen"/>serves thereupon, all the members of the said Commission were removed, and Mr. <hi>James Hutcheson</hi> was chosen Moderator, and Mr. <hi>David Ewing</hi> Clerk <hi>Pro tempore,</hi> (the Moderator and Clerk of this Assembly being members of the said Commission, and thereforeremoved) and the Ge<g ref="char:EOLhyphen"/>neral Assembly, having seriously considered the said Re<g ref="char:EOLhyphen"/>port, and Answers made by the Moderator and other mem<g ref="char:EOLhyphen"/>bers of the Commission to the saids Observes, and finding thereby that the whole Actings, Proceedings, and Con<g ref="char:EOLhyphen"/>clusions of the saids Commissioners, contained in the Re<g ref="char:EOLhyphen"/>gister
+<pb n="21" facs="tcp:108667:11"/>Subscribed by Mr. <hi>John Moncreif</hi> Clerk thereto, begining at page 169. and ending at page 354. do evidence much Wis<g ref="char:EOLhyphen"/>dom, Prudence and Diligence, and that the said Commission have proceeded orderly, and formally in every thing, accord<g ref="char:EOLhyphen"/>ing to their Commission and Instructions, and that the said Re<g ref="char:EOLhyphen"/>gister is very Accurate; Therefore this General Assembly by an unanimous Vote, did, and hereby do, Ratifie and approve the saids whole Actings, Proceedings, and Conclusions of the saids Commissioners contained in the said Register thereof, begining <hi>January</hi> 15th, 1698. and ending 18. <hi>January</hi> 1699. Inclusive of both dayes; and the Members of the Commission being called in, the same was intimate to them, and the Moderator gave them the thanks of this Assembly, for their good service, and then the Moderator and Clerk of this Assembly took their place.</p>
+            </div>
+            <div n="13" type="act">
+               <head>XIII. <hi>Act anent Subscribing the Confession of Faith,</hi>
+               </head>
+               <head type="sub">Eadem Sessione,</head>
+               <p>THE General Assembly Recommends, to all Synods and Presbytries, to enquire what Ministers or Probationers or School-Masters, within their Respective bounds, have not Subscribed the <hi>Confession of Faith,</hi> conform to former Acts of the General Assembly, as the Confession of their Faith, That these who have not done it, may be put thereto, and thinks it necessary that there be a new impression of the <hi>Confession of Faith</hi> in Folio for that end.</p>
+            </div>
+            <div n="14" type="act">
+               <head>XIV. <hi>Commission by the General Assembly to some Ministers and Elders, for Planting of Vacant Kirks in the</hi> North, <hi>and other Affairs Referred to them.</hi>
+               </head>
+               <head type="sub">At Edinburgh 4. February 1699. <hi>ante meridiem</hi> Sess. 18. <hi>&amp; ultima.</hi>
+               </head>
+               <p>THE General Assembly of this National Church, consider<g ref="char:EOLhyphen"/>ing that there are yet many Vacant Churches on the <hi>North</hi> side of <hi>Tay;</hi> as likewise that there are several weighty affairs,
+<pb n="22" facs="tcp:108667:12"/>which the said Assembly cannot overtake, Therefore the Ge<g ref="char:EOLhyphen"/>neral Assembly finds it needful, that there be a Commission granted to some Ministers and Elders, for planting these Vacant Kirks, and doing what other affairs shall be referred to them, and for that end, do hereby Nominat and Appoint Mr. <hi>Andrew Roger</hi> Minister at <hi>Galstoun,</hi> Mr. <hi>Henry Osburn</hi> at <hi>Tarbolton, Mr. Patrick Liston</hi> at <hi>Air, Mr. John Galsgow</hi> at <hi>Kilbirnie,</hi> Mr. <hi>George Chalmers</hi> at <hi>Kilwining,</hi> Mr. <hi>Alexander King</hi> at <hi>Bonill, Mr. David Fleckfeild</hi> at <hi>Balfrone,</hi> Mr. <hi>Patrick Simpson</hi> at <hi>Ren<g ref="char:EOLhyphen"/>frew,</hi> Mr. <hi>James Hutcheson</hi> at <hi>Killalan,</hi> Mr. <hi>John Stirling</hi> at <hi>Greenock,</hi> Mr. <hi>William Dunlop</hi> Principal of the Colledge of <hi>Glasgow.</hi> Mr. <hi>Alexander Heastie</hi> at <hi>Glasgow,</hi> Mr. <hi>David Ewing</hi> at <hi>Calder,</hi> Mr. <hi>Robert Wylie</hi> at <hi>Hamilton,</hi> Mr. <hi>John Murehead</hi> at <hi>Camnetham,</hi> Mr. <hi>John Bannatyne</hi> at <hi>Lanerk,</hi> Mr. <hi>Thomas Lin<g ref="char:EOLhyphen"/>ing</hi> at <hi>Lesmehago,</hi> Mr. <hi>Daniel Campbel</hi> at <hi>Glassary,</hi> Mr. <hi>Walter Campbel</hi> at <hi>Denoon,</hi> Mr. <hi>Thomas Black</hi> at <hi>Perth,</hi> Mr. <hi>David Shaw</hi> at <hi>Aberdalgie,</hi> Mr. <hi>William Spence</hi> at <hi>Fossoway,</hi> Mr. <hi>John Forrester</hi> at <hi>Stirling,</hi> Mr. <hi>Hugh White</hi> at <hi>Larbert,</hi> Mr. <hi>Alexander Douglas</hi> at <hi>Logie,</hi> Mr. <hi>Michael Potter</hi> at <hi>Dumblain,</hi> Mr. <hi>John Anderson</hi> Principal of the <hi>Leonardine</hi> Colledge of St. <hi>Andrews,</hi> Mr. <hi>William Moncreif</hi> at <hi>Largo,</hi> Mr. <hi>Alexander Sheilds</hi> at <hi>St. Andrews,</hi> Mr. <hi>Edward Jameson</hi> at <hi>Monymail,</hi> Mr. <hi>Alexander Glass</hi> at <hi>Auchter<g ref="char:EOLhyphen"/>mouchty,</hi> Mr. <hi>James Hadow</hi> at <hi>Couper,</hi> Mr. <hi>Archbald Riddel</hi> at <hi>Kircaldie,</hi> Mr. <hi>William Mackie</hi> at <hi>Markincb,</hi> Mr. <hi>John Shaw</hi> at <hi>Lesly,</hi> Mr. <hi>John Wylie</hi> at <hi>Saline,</hi> Mr. <hi>Samuel Charters</hi> at <hi>Inner<g ref="char:EOLhyphen"/>keithing,</hi> Mr. <hi>Allan Logan</hi> at <hi>Torrieburn,</hi> Mr. <hi>William Mitchel</hi> at <hi>Dundee,</hi> Mr. <hi>John Ramsay</hi> at <hi>Cortochie,</hi> Mr. <hi>Francis Melvil</hi> at <hi>Arbuthnet,</hi> Mr. <hi>William Arrot</hi> at <hi>Montrose.</hi> Mr. <hi>James Os<g ref="char:EOLhyphen"/>burn</hi> at <hi>Aberdeen,</hi> Mr. <hi>Thomas Thomson</hi> at <hi>Turrif,</hi> Mr. <hi>Patrick Innes</hi> at <hi>Bamf,</hi> Mr. <hi>James Brown</hi> at <hi>Aberdour,</hi> Mr. <hi>William Johnston</hi> at <hi>Auchterless,</hi> Mr. <hi>Alexander Forbes</hi> at <hi>Dyck</hi> Mr. <hi>James Thomson</hi> at <hi>Elgin,</hi> Mr. <hi>Hugh Duff</hi> at <hi>Fern</hi> in <hi>Rosse,</hi> Mr. <hi>William Innes</hi> at <hi>Thurso</hi> in <hi>Caithnes,</hi> Mr. <hi>Thomas Baikie</hi> at <hi>Kirk<g ref="char:EOLhyphen"/>wal</hi> in <hi>Orknay,</hi> Mr. <hi>Hugh Leigh</hi> at <hi>Bressay</hi> in <hi>Zetland,</hi> Mr. <hi>Gil<g ref="char:EOLhyphen"/>bert Rule</hi> Principal of the Colledge of <hi>Edinburgh, Mr. William Crichton</hi> at <hi>Edinburgh,</hi> Mr. <hi>John Law</hi> there, Mr. <hi>George Meldrum,</hi> there, Mr. <hi>George Hamilton</hi> there, Mr. <hi>David Blair</hi> there, Mr. <hi>John Hamilton</hi> there, Mr. <hi>John Moncreif</hi> there, Mr. <hi>Da<g ref="char:EOLhyphen"/>vid Williamson</hi> at <hi>West-Kirk,</hi> Mr. <hi>Andrew Bowie</hi> at <hi>North-Leith,</hi> Mr. <hi>Thomas Wilkie</hi> in <hi>Canogate,</hi> Mr. <hi>John Forrest</hi> at <hi>Preston-Kirk,</hi> Mr. <hi>Robert Stark</hi> at <hi>Stenton, Mr. Andrew Brown</hi> at <hi>Spott,</hi> Mr. <hi>James Clerk</hi> at <hi>Dirletoun, Mr. Mungo Watson</hi> at <hi>Gladsmuir, Mr. Mathew Reid</hi> at <hi>Northberwick, Mr. William Trail</hi> at <hi>Borthwick,</hi> Mr. <hi>Patrick Cuming</hi> at <hi>Ormiston, Mr. Mathew Selkrig</hi> at <hi>Crich<g ref="char:EOLhyphen"/>toun, Mr. David Walker</hi> at <hi>Temple, Mr. William Macjore</hi> at <hi>Pennycook,</hi> Mr. <hi>George Barclay</hi> at <hi>Ʋphal,</hi> Mr. <hi>William Burnet</hi> at <hi>Falkirk,</hi> Mr. <hi>Thomas Miller</hi> at <hi>Kirklistoun, Mr. John Brand</hi> at <hi>Borrowstounnes, Mr. William Russel</hi> at <hi>Stobo, Mr. Robert Li<g ref="char:EOLhyphen"/>vingstoun</hi>
+                  <pb n="23" facs="tcp:108667:12"/>at <hi>Bigger,</hi> Mr. <hi>John Sandilands</hi> at <hi>Dolphingtoun,</hi> Mr. Mr. <hi>Gabriel Semple</hi> at <hi>Jedburgh,</hi> Mr. <hi>Samuel Johnstoun</hi> at <hi>South<g ref="char:EOLhyphen"/>dean,</hi> Mr. <hi>Robert Wilson</hi> at <hi>Melross,</hi> Mr. <hi>John Gelen</hi> at <hi>Stitchell,</hi> Mr. <hi>John Dysert</hi> at <hi>Coldinghame,</hi> Mr. <hi>John Linlithgow</hi> at <hi>Swintoun,</hi> Mr. <hi>Alexander Colden</hi> at <hi>Duns,</hi> Mr. <hi>John Vetch</hi> at <hi>Westruther, Mr. George Johnstoun</hi> at <hi>Ersletoun, Mr. William Vetch</hi> at <hi>Drum<g ref="char:EOLhyphen"/>frees, Mr. Robert Paton</hi> there, <hi>Mr. James Elder</hi> at <hi>Keir, Mr. Tho<g ref="char:EOLhyphen"/>mas Gowdie</hi> at <hi>Kirkpatrick juxta, Mr. James Armstrang</hi> at <hi>Canabee, Mr. James Monteith</hi> at <hi>Borg, Mr. Robert Rowand</hi> at <hi>Pennyghame, Mr. William Boid</hi> at <hi>Dalry, Mr. Andrew Ewart</hi> at <hi>Kells,</hi> Ministers. <hi>George</hi> Earl of <hi>Melvil</hi> Lord President of the Privy Council; <hi>George</hi> Earl of <hi>Sutherland, William</hi> Lord <hi>Forbes, Robert</hi> Lord <hi>Burleigh, William</hi> Lord <hi>Ross, John</hi> Lord <hi>Belhaven, James</hi> Master of <hi>Carmichael,</hi> Sir <hi>Hugh Dalrymple</hi> of <hi>Northberwick</hi> Lord Presi<g ref="char:EOLhyphen"/>dent of the Session, Sir <hi>James Stewart</hi> of <hi>Goodtrees</hi> His Majesties Advocat, <hi>Adam Cockburn</hi> of <hi>Ormistoun</hi> Lord Justice-Clerk, Sir <hi>Alexander Swinton</hi> of <hi>Mersingtoun,</hi> Sir <hi>Collin Campbel</hi> of <hi>Abe<g ref="char:EOLhyphen"/>ruchel,</hi> Sir <hi>John Hamiltoun</hi> of <hi>Halcraig,</hi> Sir <hi>David Home</hi> of <hi>Cros<g ref="char:EOLhyphen"/>rig</hi> four of the Senators of the Colledge of Justice, <hi>Mr. John Campbel</hi> Brother to the Earl of <hi>Argyl,</hi> Mr. <hi>Francis Montgomery</hi> of <hi>Giffan, Lodovick Grant</hi> of that Ilk, <hi>William Baillie</hi> of <hi>Laming<g ref="char:EOLhyphen"/>toun, James Brodie</hi> of that Ilk, <hi>George Home</hi> of <hi>Kello</hi> Provost of <hi>Edinburgh,</hi> Sir <hi>John Riddel</hi> of that Ilk, Sir <hi>William Cuninghame</hi> of <hi>Cuninghamhead,</hi> Sir <hi>Collin Campbel</hi> of <hi>Ardkinlass</hi> Sir <hi>John Pringle</hi> of <hi>Stitchel,</hi> Sir <hi>John Clerk</hi> of <hi>Pennycook,</hi> Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Denholme</hi> of <hi>Westsheilds,</hi> Sir <hi>Archibald Mure</hi> of <hi>Thorntoun,</hi> Sir <hi>Thomas Burnet</hi> His Majesties Phisician, Sir <hi>William Baird</hi> of <hi>Newbaith,</hi> Lievtenent Collonel <hi>John Erskin</hi> of <hi>Carridden,</hi> Captain <hi>John Erskin, Adam Drummond</hi> of <hi>Meggins, John Alexander</hi> of <hi>Blackhouse, George Moncrief</hi> of <hi>Reedy,</hi> Mr. <hi>James Daes</hi> of <hi>Col<g ref="char:EOLhyphen"/>ding knows</hi> Advocat, <hi>Henry Rollo</hi> of <hi>Woodside</hi> Governour of the Castle of <hi>Blackness, Walter Stewart</hi> of <hi>Pardivan, James Hamil<g ref="char:EOLhyphen"/>ton</hi> of <hi>Pencaitland, Robert Martine</hi> of <hi>Burnbrae, John Anderson</hi> of <hi>Dowhill,</hi> and Mr. <hi>Archbald Dickson</hi> of <hi>Tourlands</hi> Ruling Elders. To be Commissioners of the General Assembly, to the effect aftermentioned: with full power and Commission to the saids persons, or their Quorum, which is hereby declared to be, any <hi>Fifteen</hi> of the saids Commissioners, whereof nine are alwayes to be Ministers, to meet and Conveen within the Assembly-house at <hi>Edinburgh,</hi> the first <hi>Munday</hi> after the dissolution of this Assem<g ref="char:EOLhyphen"/>bly, at Two of the Clock in the Afternoon, and afterwards to meet the first <hi>Tuesday</hi> of <hi>March, June, September</hi> and <hi>December</hi> and oftner, where or when they shall see needful, during the continuance of this Commission: And the General Assembly requires, all the Members of this Commission, to attend pun<g ref="char:EOLhyphen"/>ctually, the Meetings thereof: with power to the said Com<g ref="char:EOLhyphen"/>mission to chuse their own Moderator and Clerk: and sicklike the General Assembly, fully impowers and Authorizes the saids
+<pb n="24" facs="tcp:108667:13"/>Commissioners, or their Quorum, to consider, cognosce, and finally determine as they shall see cause, in every thing contain<g ref="char:EOLhyphen"/>ed in, and conform to, the Instructions given them by this As<g ref="char:EOLhyphen"/>sembly, as fully and freely as if the same were in these presents, at full length insert and set down; As also, to consider and cognosce and finally determine, in all References, Appeals, and other Matters, particularly remitted to them, by any Act or or<g ref="char:EOLhyphen"/>der of this Assembly, all which are holden as herein exprest; And the General Assembly, do hereby prohibit and discharge the saids Commissioners to meddle in any other matters than what is contained herein: Declaring also that in and for their Actings, they shall be countable to, and censureable, by the next ensuing General Assembly of this Church: And lastly Declares, that this Commission shall continue, until the Meeting of the next General Assembly.</p>
+            </div>
+            <div n="15" type="act">
+               <head>XV. <hi>Instructions to the Commission appointed by the General Assembly for planting the Vacant Churches in the</hi> North, &amp;c.</head>
+               <head type="sub">Eadem Sessione.</head>
+               <p n="1">1. THAT this Commission do what in them lyes to ren<g ref="char:EOLhyphen"/>der effectual the Overtures past the last Assembly, for the more speedy planting of the <hi>North,</hi> and exerce all the Power that is committed to them for that effect, except in fo far as they are, or shall be altered by this Assembly; And that they cognosce and finally determine in all References made to them, by this Assembly, and in all Appeals for Transporting Ministers to the <hi>North,</hi> which shall be orderly brought in to them, according to the above, or any other Overtures past in this Assembly.</p>
+               <p n="2">2. That this Commission, as often as they see cause, apply to the Government, or any Magistrate for their countenance<g ref="char:EOLhyphen"/>ing of, and concurrence with the Judicatories of the Church, in what the Law allows, particularly for settling Vacant Churches, Redressing any Grievances, which may fall out, and that they correspond with the State, anent Fasts and Thansgivings, as occasion requires, and to specify the Causes thereof.</p>
+               <p n="3">3. That when any Ministers, who served under the late Prelacy, whose Lives and Doctrines, may render them useful to this Church, do apply for reception to the Government, the Assembly do impower and recommend to this Commission,
+<pb n="25" facs="tcp:108667:13"/>and the other Judicatories of this Church competent, that they may be ready to receive them, according to former Acts of the Assembly.</p>
+               <p n="4">4. That this Commission may dispose of His Majesties Gifts to this Church, and in the disposal thereof, that they do particularly take care, that the encouragement granted by this Assembly, to the Probationers who are to go to the <hi>North</hi> to Preach, be rendered effectual, and that they cause defray the extraordinary Charges, that several Ministers of the <hi>North,</hi> have been at, in carrying on the planting of the <hi>North,</hi> and other publick Affairs of the Church there, and for the de<g ref="char:EOLhyphen"/>fraying the Charges, of such <hi>Ministers,</hi> or <hi>Probationers,</hi> as shall yet be sent to <hi>Orknay,</hi> or other remote parts of the <hi>North.</hi>
+               </p>
+               <p n="5">5. That this Commission, on the desire of Presbytries, or Synods, or as they shall see cause, may appoint Committees upon occasion, for visitation of particular Kirks, and Presby<g ref="char:EOLhyphen"/>tries, or tryal of persons, and do all things proper for any Vi<g ref="char:EOLhyphen"/>sitation. who are to Act in conjunction with the Presbytry of the bounds, and that they proceed to Censure as they see cause.</p>
+               <p n="6">6. The Commission is to give advice and assistance, to any Synod or Presbytry, applying to them in difficult cases.</p>
+               <p n="7">7. That this Commission enquire, who are defective in sending Supplies to the <hi>North,</hi> and see them fulfil their Mission, and that they endeavour, that the Supplies appointed by this As<g ref="char:EOLhyphen"/>sembly, be made effectual, under the Certifications contained in Acts of prior Assemblies thereanent, and for this effect, that each Synod and Presbytry, send in quarterly to the Commis<g ref="char:EOLhyphen"/>sion, an account of the names of the persons, they appoint for Supplies, and the places to which they are sent, and that ano<g ref="char:EOLhyphen"/>ther double thereof be each 4 Moneths sent to the Presbytry or Province to which they send.</p>
+               <p n="8">8. That this Commission shall have power, to add to, or alter the Instructions given to the Presbytries of <hi>Orknay</hi> and <hi>Zetland,</hi> as they shall see cause, particularly with reference to Tran<g ref="char:EOLhyphen"/>sportation of Ministers, because of the sad circumstances that some Ministers there are in, that they be ready to give advice and assistance to these Presbytries, as they are required, because they have not Synods in these bounds.</p>
+            </div>
+            <div n="16" type="act">
+               <pb n="26" facs="tcp:108667:14"/>
+               <head>XVI. <hi>Overtures for Promoving the Knowledge of God in the</hi> Highlands, <hi>and for Rendering the Act made</hi> Sess. 10. <hi>of this Assembly, the more effectual</hi>
+               </head>
+               <head type="sub">Eadem Sessione.</head>
+               <p n="1">1 THAT each Presbytry, give up yearly to the General Assembly, a distinct account, of Probationers and Stu<g ref="char:EOLhyphen"/>dents of Divinity within their bounds, who have the <hi>Irish</hi> Language.</p>
+               <p n="2">2. That enquiry be made, what Ministers are settled in the <hi>Lowlands,</hi> who have the <hi>Irish</hi> Language, that they may be sent on Supply to Vacant and <hi>Highland</hi> places, and if they get orderly Calls, they be Transported to the <hi>Highlands.</hi>
+               </p>
+               <p n="3">3. That seing a great number of Bibles, have been on the Charges of diverse Charitable persons in <hi>England,</hi> &amp; some in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> Translated and Printed in the <hi>Irish</hi> Language, and sent down to this Kingdom, to be dispersed, chiefly for the use of the poor, and many of them, are not yet distributed, and diverse Parishes in the <hi>Highland</hi> parts, have gotten none of them, it be recom<g ref="char:EOLhyphen"/>mended to Mr. <hi>David Blair</hi> Mr. <hi>William Crichton,</hi> Mr. <hi>John Law,</hi> Mr. <hi>Gilbert Rule,</hi> Mr. <hi>George Meldrum,</hi> Mr. <hi>John Moncreif,</hi> Mr. <hi>George Hamilton</hi> Moderator, and to the Earls of <hi>Sutherland</hi> and <hi>Tillibardine</hi> the Lord <hi>Aberuchle,</hi> and Laird of <hi>Grant,</hi> to enquire how many of these Bibles, whether Printed in the Ro<g ref="char:EOLhyphen"/>man or Irish Character are already distributed, and how and to whom, and how many does yet remain, and to make distri<g ref="char:EOLhyphen"/>bution of them, to different parts of the Church, in such propor<g ref="char:EOLhyphen"/>tion, as may be most for Edification, and that they be deliver<g ref="char:EOLhyphen"/>ed and distributed by the order of any three of this Committee, on sufficient Receipt by the Receiver, and that Presbytries and Ministers of each parish, be careful of the due distribution of what is received, and an account thereof sent to the next Ge<g ref="char:EOLhyphen"/>neral Assembly.</p>
+               <p n="4">4. That it be Recommended to all, but especially to Pres<g ref="char:EOLhyphen"/>bytries who have <hi>Highland</hi> parishes, to consider what may be done for getting a Fond for a new Impression of the Bible in the <hi>Irish</hi> Language, and of the Psalms in meeter, and of the Shorter Catechisme.</p>
+               <p n="5">5. That seing it is Informed, there was 1000 <hi>lib. Scots,</hi> given by the Lords of His Majesties Theasury, for Binding of these Bibles, and other Charges anent them, it be Recommend<g ref="char:EOLhyphen"/>ed
+<pb n="27" facs="tcp:108667:14"/>to the foresaid Committee, or to the Commission, to enquire to whom that money was given, and on what Terms, and how imployed, and if there be any of it yet remaning, after the Defraying of the Charges foresaid, that it be allotted for the help of a Fond for a new Impression.</p>
+               <p n="6">6. That it be Recommended to the Synod of <hi>Argyle,</hi> to Translate the <hi>Confession of Faith</hi> of this Church, and the <hi>Larger Catechisme</hi> in the <hi>Irish</hi> Language, the <hi>Lesser Catechisme</hi> and <hi>Psalms</hi> being Translated already in that Language, and that they exactly notice any Typographical Errors, which may be found in the late Impression of the Bible, in the <hi>Highland</hi> Language, that they may be amended in a new Impression.</p>
+               <p n="7">7. That it be Recommended to the Synod of <hi>Argyle,</hi> that as they have done worthily hitherto, in Visiting the Country and Islands within their bounds, so they would continue, and abound more and more, and be ready to assist their Neigh<g ref="char:EOLhyphen"/>bours, as they are called and have opportunity.</p>
+               <p n="8">8. That there be a Committee, for Visiting the <hi>Highland</hi> Parishes of <hi>Dumbarton, Strivling,</hi> and <hi>Perth, Shyres,</hi> of the per<g ref="char:EOLhyphen"/>sons following <hi>viz.</hi> Mr. <hi>John Anderson</hi> Minister at <hi>Drymmen,</hi> Mr. <hi>Robert Anderson</hi> at <hi>Perth,</hi> Mr. <hi>John Campbel</hi> at <hi>Monivaird,</hi> Mr. <hi>David Shaw</hi> at <hi>Aberdalgy,</hi> Mr. <hi>Alexander Dowglas</hi> of <hi>Logy,</hi> Mr. <hi>Alexander Dining</hi> at <hi>Abernethy,</hi> Ministers, the Earl of <hi>Tillibardine,</hi> Viscount of <hi>Dipline,</hi> Lord <hi>Ruthven,</hi> Sir <hi>Colin Campbel</hi> of <hi>Aberuchle,</hi> one of the Senators of the Colledge of Justice, the Laird of <hi>Meggins</hi> and <hi>Lauchlan Mackintosh</hi> Elders.</p>
+               <p n="9">9. And that the Synod of <hi>Aberdeen,</hi> at their meeting in <hi>A<g ref="char:EOLhyphen"/>pril</hi> next, do appoint some of the Ministers and Elders in their bounds to be a Committee, to Visite the few <hi>Highland</hi> Pari<g ref="char:EOLhyphen"/>shes in their Province.</p>
+               <p n="10">10. And that Mr. <hi>David Cuming</hi> Minister at <hi>Edinkilly,</hi> Mr. <hi>Alexander Forbes</hi> at <hi>Dyck,</hi> and Mr. <hi>Donald Mackintosh</hi> at <hi>Duthel,</hi> Ministers: together with the Lairds of <hi>Grant, Brody</hi> and <hi>Collodine</hi> Elders, with any other that the Presbytry of <hi>Murray</hi> may appoint of their own Number, to be a Committee to Visite the <hi>Highland</hi> Parishes within the Province and Synod of <hi>Murray.</hi>
+               </p>
+               <p n="11">11. And that Mr. <hi>William Innes</hi> Minister at <hi>Thurso,</hi> Mr. <hi>Walter Denoon</hi> at <hi>Golpsie,</hi> Mr. <hi>John Monro</hi> at <hi>Rhe,</hi> Mr. <hi>John Macpherson</hi> at <hi>Farr,</hi> Mr. <hi>William Stewart</hi> at <hi>Kiltearn,</hi> and Mr. <hi>Hugh Duff</hi> at <hi>Ferne,</hi> with the Lairds of <hi>Foulis</hi> and <hi>Dal<g ref="char:EOLhyphen"/>pholey</hi> and <hi>William Ross</hi> of <hi>Aldie,</hi> be a Committee, to Visite the <hi>Highland</hi> Parishes of <hi>Ross, Sutherland</hi> and <hi>Caithness.</hi>
+               </p>
+               <p n="12">12. And that these Committees Visite the Kirks, Manses, Gleibs, and if need be <hi>perambulat,</hi> the Parishes, and consider how they may be more commodiously divided, or annexed, or where there is need of new Erections, and how the same may be most conveniently accomplished.</p>
+               <p n="13">
+                  <pb n="28" facs="tcp:108667:15"/>13. And that they visit the Schools, within the saids Bounds, and endeavour to get Schools Erected, according to the Act of Parliament, where they are not, and apply to these, who have the care and charge of disposing of the Kings Gift, out of the Bishoprick of <hi>Dunkeld,</hi> or any other Gift His Majesty, may grant to other places, for that end, that where it is needful they may have more Schools in one parish where it's large and spaci<g ref="char:EOLhyphen"/>ous, than these provided by Act of Parliament.</p>
+               <p n="14">14. And that they do all and every thing proper for a Com<g ref="char:EOLhyphen"/>mittee for visitation to do, and to Report their Diligence to the next General Assembly, and from time to time to the Commis<g ref="char:EOLhyphen"/>sion appointed by this Assembly, who are hereby impowered to give them advice on all occasions, and to draw the several Commissions to the respective Committees to the effect above<g ref="char:EOLhyphen"/>specified, and appoint the time and place of their first meeting respective, with power to the Commission to add such of their number as they shall think fit, with power also to the above mentioned Committees, to chuse their own Moderators and Clerks and to appoint the diets and places of their after-meet<g ref="char:EOLhyphen"/>ings.</p>
+               <p n="15">15. That the King be addressed for the effect of his Royal Munificence, in favours of the more Northern <hi>Highland</hi> places, as he hath done to the Synods of <hi>Argyle</hi> and <hi>Perth,</hi> and the con<g ref="char:EOLhyphen"/>currence of the Nobility and Gentry concerned, be desired for this end.</p>
+               <p>The General Assembly having several times heard and con<g ref="char:EOLhyphen"/>sidered the abovewritten Overtures, They by their vote un<g ref="char:EOLhyphen"/>animously did, and hereby do approve thereof; And Appoints, Refers, and Recommends according thereto, in all points.</p>
+            </div>
+            <div n="17" type="act">
+               <head>XVII.</head>
+               <p>THE next General Assembly of this National Church is to be held at <hi>Edinburgh,</hi> upon the first <hi>Friday</hi> of <hi>February,</hi> One Thousand Seven Hundred Years.</p>
+               <p>
+                  <hi>The Assembly being closed, the Members were dismissed with Pray<g ref="char:EOLhyphen"/>er, singing the</hi> 133 <hi>Psalm, and pronouncing of the Blessing.</hi>
+               </p>
+            </div>
+            <closer>
+               <hi>Collected, and Extracted, From the Records of the General Assembly,</hi>
+               <signed>By Me, J. Bannatyne, <hi>Cls. Syn. National.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:108667:15"/>
+            <head>A TABLE Of the Printed Acts of the <hi>Ge<g ref="char:EOLhyphen"/>neral Assembly</hi> 1699.</head>
+            <list>
+               <item>1. THE Recording of His Majestie's Commission, to the Lord <hi>Carmichael</hi> for Representing His Majesty in this Assembly. <hi>Page</hi> 3.</item>
+               <item>2. His Majestie's Gracious Letter to the General Assembly. 5, &amp; 6.</item>
+               <item>3. The General Assemblies Answer to His Majestie's most Gracious Letter. 7.</item>
+               <item>4. Act annexing some parishes to the Presbytries of <hi>Wig<g ref="char:EOLhyphen"/>toun</hi> and <hi>Stranrauer.</hi> 8.</item>
+               <item>5. Act anent proclamation of Banns. 9.</item>
+               <item>6. Act of the General Assembly, anent a Solemn National Fast and Humiliation. 10.</item>
+               <item>7. Act against Prophanness. 11.</item>
+               <item>8. Act against Popery. 13.</item>
+               <item>9. Act anent planting of the <hi>Highlands.</hi> 15.</item>
+               <item>10. Recommendation to Presbytries and Synods anent Schools. 16.</item>
+               <item>11. Overtures for planting the <hi>North,</hi> with the Aprobation thereof. <hi>Ibid.</hi>
+               </item>
+               <item>12. Approbation of the Actings and proceedings of the Commission appointed by the General Assembly 1698. 20</item>
+               <item>13. Act anent the Subscribing the Confession of Faith 21</item>
+               <item>14. Commission by the General Assembly to some Mini<g ref="char:EOLhyphen"/>sters and Elders for planting of Vacant Churches in the <hi>North,</hi> and other Affairs referred to them. <hi>Ibid.</hi>
+               </item>
+               <item>15. Instructions to the Commission appointed by the Gene<g ref="char:EOLhyphen"/>ral Assembly for planting the Vacant Churches in the <hi>North, &amp;c.</hi> 24.</item>
+               <item>16. Overtures for promoving the knowledge of God, in the Highlands, and for rendering the Act made Session 10. of this Assembly the more effectual. 16.</item>
+               <item>17. Appointment of the next Diet of the General Assembly. 28</item>
+            </list>
+         </div>
+         <div type="index">
+            <pb facs="tcp:108667:16"/>
+            <head>INDEX <hi>Of the</hi> ACTS <hi>&amp;c. of the General Assembly</hi> 1699. <hi>which are not here Printed.</hi>
+            </head>
+            <list>
+               <item>THE meeting, and opening of the General Assembly (af<g ref="char:EOLhyphen"/>ter Sermon) by Mr. <hi>George Meldrum</hi> Moderator of the last Assembly.</item>
+               <item>Election of Mr. <hi>George Hamilton</hi> Moderator. <hi>Sess.</hi> 1.</item>
+               <item>Mr. <hi>John Bannatyne</hi> chosen Clerk to this Assembly. <hi>Ibidem</hi>
+               </item>
+               <item>The Commissioner and Moderator's <hi>Speeches. Ib.</hi>
+               </item>
+               <item>Committee for drawing an Answer to the Kings Letter. <hi>Ib.</hi>
+               </item>
+               <item>Committee for <hi>Overtures. Ib.</hi>
+               </item>
+               <item>Committee for <hi>Bills, References</hi> and <hi>Appeals. Ib.</hi>
+               </item>
+               <item>Appointment of a Diet for Prayer. <hi>Ib.</hi>
+               </item>
+               <item>Some Ministers appointed to Preach before the <hi>Commissioner,</hi> and Supply the Kirks of the Ministers of <hi>Edinburgh,</hi> who are Members of the General Assembly, and they ordered to name others to succeed them. <hi>Ib.</hi>
+               </item>
+               <item>A Diet spent in Prayer. <hi>Sess.</hi> 2.</item>
+               <item>The Presbytries of <hi>Caithness</hi> and <hi>Orknay</hi> excused, for not sending Commissioners to this General Assembly, and the conside<g ref="char:EOLhyphen"/>ration of <hi>Letters</hi> therefrom remitted to a Committee. <hi>Sess.</hi> 3.</item>
+               <item>Committee for Cognosceing upon the dates of Commissions, con<g ref="char:EOLhyphen"/>form to the 6 Act of the last General Assembly 1698. <hi>Ib.</hi>
+               </item>
+               <item>Committee for revising the proceedings of the <hi>Commission</hi> of of the General Assembly 1698. <hi>Ibid.</hi> &amp; <hi>Sess.</hi> 8.</item>
+               <item>Committees for revising <hi>Synod-Books. Ib.</hi>
+               </item>
+               <item>Act appointing the <hi>Synod-Book</hi> of <hi>Argyle</hi> to be brought to the next General Assembly. <hi>Ib.</hi>
+               </item>
+               <item>The Presbytries in the Provinces of <hi>Angus, Merns, Aberdeen, Murray, Ross, Sutherland, Caithness, Orknay</hi> and <hi>Zetland,</hi> ap<g ref="char:EOLhyphen"/>pointed to bring their <hi>Records</hi> to the next General Assem<g ref="char:EOLhyphen"/>bly to be revised. <hi>Ib.</hi>
+               </item>
+               <item>Committee for considering the state of the <hi>North-Highlands</hi> &amp;c. <hi>Ib.</hi>
+               </item>
+               <item>Act Rejecting the Appeal of <hi>Aberdeen</hi> anent their Process con<g ref="char:EOLhyphen"/>cerning the Transportation of Mr. <hi>William Mitchel</hi> from <hi>Dundee</hi> to <hi>Aberdeen. Ib.</hi>
+               </item>
+               <pb facs="tcp:108667:16"/>
+               <item>A Letter of thanks from the Consistory of these of the Reform<g ref="char:EOLhyphen"/>ed Religion in <hi>Konigsberg,</hi> for the Charity of this Church and Nation, to help to Build their Church. <hi>Ib</hi>
+               </item>
+               <item>Committee for receiving the Lists of Probationers and Stu<g ref="char:EOLhyphen"/>dents, according to the 3. Act of the General Assembly 1697. <hi>Sess.</hi> 4</item>
+               <item>Report of a Committee appointed by the last Assembly, for re<g ref="char:EOLhyphen"/>vising the Overtures anent Discipline, and the appointment continued, with a new addition of some Members to that Committee. <hi>Ib</hi>
+               </item>
+               <item>Committee to name some Ministers for Supplying <hi>Aberdeen. Ib</hi>
+               </item>
+               <item>Act Transporting Mr. <hi>John Anderson</hi> Minister, from <hi>Westkirk</hi> to St <hi>Andrews. Sess.</hi> 5 and 15</item>
+               <item>The Commissioners from the Presbytry of <hi>Stranrauer,</hi> excused for not attending this Assembly. <hi>Sess.</hi> 6</item>
+               <item>Mr. <hi>Gilbert Rule</hi> Principal of the Colledge of <hi>Edinburgh,</hi> Commi<g ref="char:EOLhyphen"/>ssioner there from, excused for not attending this Assembly. <hi>Sess.</hi> 7</item>
+               <item>Act appointing Mr. <hi>Thomas Wilkie</hi> Minister at <hi>Canogate,</hi> Mr. <hi>James Clark</hi> and Mr. <hi>David Broun</hi> Ministers, to go to <hi>Aber<g ref="char:EOLhyphen"/>deen,</hi> and Supply them with Preaching. <hi>Ib</hi>
+               </item>
+               <item>Act refusing to Transport Mr. <hi>James Stirline</hi> Minister to <hi>Aber<g ref="char:EOLhyphen"/>deen</hi> or <hi>Barony</hi> parish of <hi>Glasgow,</hi> and continuing him at <hi>Kil<g ref="char:EOLhyphen"/>barchan. Sess.</hi> 4 5 and 7</item>
+               <item>Act Sustaining an Appeal, from the Presbytry of <hi>Ersletoun,</hi> made by the parish of <hi>Dalmeny</hi> to the General Assembly, anent the Transportation of Mr. <hi>George Johnstoun</hi> Minister from <hi>Ersle<g ref="char:EOLhyphen"/>toun</hi> to <hi>Dalmeny,</hi> and ordaining the parish of <hi>Ersletoun</hi> to be cited before the General Assembly. <hi>Sess.</hi> 8</item>
+               <item>Act taking off the Sentence of Suspension and Deposition, off Mr. <hi>William Russel</hi> lately Minister at <hi>Morum,</hi> upon his appli<g ref="char:EOLhyphen"/>cation and promise of Subjection <hi>&amp;c. Sess.</hi> 8</item>
+               <item>A Letter to the Magistrates of <hi>Aberdeen,</hi> and another to Mr. <hi>James Osburn. Sess.</hi> 8 &amp; 9</item>
+               <item>Address to the King, anent the Stipends of the Ministers of St-<hi>Andrews. Sess.</hi> 9</item>
+               <item>Act Refusing the Petitions of Mr. <hi>John Anderson</hi> and Mr. <hi>David Williamson</hi> Ministers, and the Parishoners of <hi>Westkirk,</hi> crav<g ref="char:EOLhyphen"/>ing a Recognition of the Assemblies Sentence, Transport<g ref="char:EOLhyphen"/>ing Mr. <hi>John Anderson</hi> to St <hi>Andrews. Ib</hi>
+               </item>
+               <item>Act anent Mr. <hi>Alexander Ore</hi>'s going to <hi>Alyth,</hi> with a Refer<g ref="char:EOLhyphen"/>ence to the Commission in his favours. <hi>Ib</hi>
+               </item>
+               <item>Recommendation to the Lords of Theasury, in favours of the Kirk-Session of <hi>Dumfermling,</hi> for the Vacant Stipend of that parish, with a Recommendation to their Presbytry, and the Commission, anent planting of that parish. <hi>Sess.</hi> 8 &amp; 9</item>
+               <item>Committee anent the poor. <hi>Sess.</hi> 10</item>
+               <item>Representation anent the state of <hi>Orknay,</hi> with an Act approv<g ref="char:EOLhyphen"/>ing Overtures, anent addressing the Lords of Theasury for the
+<pb facs="tcp:108667:17"/>Vacant Stipends of that Country Cropt 1698. <hi>&amp;c</hi> for pious uses, the Presbytry appointed to Visite parishes and ruinous Kirks and Manses, and report to the Commission. <hi>Item</hi> Anent Erect<g ref="char:EOLhyphen"/>ing Schools in that Country, an address to the King, for an Augmentation to the Stipend of one, of the two Mini<g ref="char:EOLhyphen"/>sters of <hi>Kirkwal,</hi> And lastly anent sending some Ministers and Probationers to <hi>Orknay. Sess.</hi> 10</item>
+               <item>Act taking off the Sentences of Suspension and Deposition of Mr. <hi>Hugh Mackhenry,</hi> upon his application and humble de<g ref="char:EOLhyphen"/>sire therefore, and his engagment to be subject to the Ju<g ref="char:EOLhyphen"/>dicatories of this Church. <hi>Ib</hi>
+               </item>
+               <item>Act anent an address to the Council for punishing Witches, Charmers <hi>&amp;c.</hi> with Overtures thereanent. <hi>Ib</hi>
+               </item>
+               <item>Act refusing the desire of Mr <hi>John Fergusson,</hi> and Petition of <hi>Robertoun,</hi> craving a Recognition of the late Assemblies sen<g ref="char:EOLhyphen"/>tence, Transporting him to <hi>Aberbrothick, Ib</hi>
+               </item>
+               <item>Petition for Mr. <hi>George Johnstoun,</hi> craving that the General As<g ref="char:EOLhyphen"/>sembly would consider his affair, and not remit the same to the Commission, granted. <hi>Sess.</hi> 11</item>
+               <item>The Presbytry of <hi>Paisly</hi> appointed to see that Mr. <hi>David Broun</hi> go to <hi>Aberdeen. Ib</hi>
+               </item>
+               <item>Act taking off the sentence of Suspension off Mr. <hi>John Fergus<g ref="char:EOLhyphen"/>son,</hi> and appointing him to go to <hi>Aberborthick. Sess.</hi> 12</item>
+               <item>Act appointing the Presbytry of <hi>Coupar,</hi> to be admonished for not observing the Acts of the General Assembly, anent Calls. <hi>Ib</hi>
+               </item>
+               <item>Act appointing Mr. <hi>David Pitcairn</hi> Minister to go to <hi>Forresse,</hi> with a reference to the Commission in his favours. <hi>Ib</hi>
+               </item>
+               <item>Act refusing to Sustain the Appeal of <hi>Keeth</hi> from the Presby<g ref="char:EOLhyphen"/>try of <hi>Biggar,</hi> and remitting the affair anent Mr. <hi>Robert Bail<g ref="char:EOLhyphen"/>lies</hi> Transportation from <hi>Lamingtoun</hi> to <hi>Keeth. Ses.</hi> 13</item>
+               <item>A Letter to the Earl of <hi>Aboyne,</hi> congratulating his renouncing the Popish and owning the Protestant Religion, and en<g ref="char:EOLhyphen"/>couraging his Lordship to continue therein. <hi>Ses.</hi> 10 &amp; 13</item>
+               <item>Act Refusing to Transport Mr. <hi>George Barclay</hi> Minister to <hi>Wig<g ref="char:EOLhyphen"/>toun,</hi> and continuing him at <hi>Ʋphal. Ses.</hi> 13</item>
+               <item>Protestation of <hi>Campvere,</hi> that <hi>Clackmanan</hi> had past from their Call to Mr. <hi>Thomas Hog. Ib</hi>
+               </item>
+               <item>Reference to the Commission, anent a Petition from the Pres<g ref="char:EOLhyphen"/>bytry of <hi>Kircubright. Ib</hi>
+               </item>
+               <item>Address to the Privy Council anent the poor. <hi>Ib</hi>
+               </item>
+               <item>Act allowing Mr. <hi>Thomas Hog,</hi> to dimit his Ministry at <hi>Cam<g ref="char:EOLhyphen"/>vere,</hi> and accept of a Call from the <hi>Scottish</hi> Congregation at <hi>Rotterdam. Sess.</hi> 14</item>
+               <item>Act Receiving Mr. <hi>John Mackcalman,</hi> (one of these that serv<g ref="char:EOLhyphen"/>ed under the late prelacy) to Ministerial Communion, upon the Terms of the General Assembly 1694. <hi>Ib</hi>
+               </item>
+               <item>Act determining that Mr. <hi>Hugh Machenry,</hi> should not return
+<pb facs="tcp:108667:17"/>to his former Charge at <hi>Dalton,</hi> with a recommendation in his favours. <hi>Sess.</hi> 15</item>
+               <item>Act refusing to Transport Mr. <hi>George Johnston</hi> to <hi>Dalmeny,</hi> and continuing him Minister at <hi>Ersletoun. Ib</hi>
+               </item>
+               <item>Act approving an Overture, that Mr. <hi>George Clephane,</hi> be lookt upon as Minister of <hi>Newtild</hi> and upon his Petition grant<g ref="char:EOLhyphen"/>ing him an Act of Transportability therefrom. <hi>Ib</hi>
+               </item>
+               <item>Recommendation in favours of Mr. <hi>John Anderson. Ib</hi>
+               </item>
+               <item>Acts attesting the Visitors approbation of the Synod Books, of <hi>Glasgow</hi> and <hi>Air, Fiffe, Lothian</hi> and <hi>Tweedale, Merse</hi> and and <hi>Teviotdale. Ib</hi>
+               </item>
+               <item>Act and Recommendation in favours of Mr. <hi>David Williamson</hi> and the parish of <hi>Westkirk. Sess.</hi> 16</item>
+               <item>Committee for Naming the Members of the Commission. <hi>Ib</hi>
+               </item>
+               <item>Act taking off the sentence of Suspension, off Mr. <hi>John Hep<g ref="char:EOLhyphen"/>burn,</hi> on his humble and earnest desire, and professed defe<g ref="char:EOLhyphen"/>rence and respect to the Judicatories of this Church, and the Peace and Order thereof, which was granted by the General Assembly with Certification <hi>&amp;c. Ib</hi>
+               </item>
+               <item>Reference to the Commission in favours of the <hi>African</hi> and <hi>Indi<g ref="char:EOLhyphen"/>an</hi> Company of <hi>Scotland,</hi> anent providing them with Mini<g ref="char:EOLhyphen"/>sters <hi>&amp;c. Sess.</hi> 16 &amp; 17</item>
+               <item>Reference to the Commission in favours of the Lord <hi>Strathna<g ref="char:EOLhyphen"/>ver</hi>'s Regiment for a Minister. <hi>Sess.</hi> 17</item>
+               <item>Reference to the Commission anent Mr. <hi>Alexander Steedman,</hi> and Mr. <hi>Alexander Anderson</hi>'s going to <hi>Wick</hi> in <hi>Caithness. Ib</hi>
+               </item>
+               <item>Committee to draw Instructions to the Commission. <hi>Ib</hi>
+               </item>
+               <item>Act allowing <hi>John Blair</hi> 50. <hi>lib. sttarling,</hi> for Agenting the Churches affairs, and 5. <hi>lib.</hi> to his Servant yearly. <hi>Ib</hi>
+               </item>
+               <item>Reference to the Commission, anent Erroneous Books <hi>&amp;c. Ib</hi>
+               </item>
+               <item>Reference to the Commission anent Mr. <hi>Patrick Murray</hi> of <hi>Caddell &amp;c. Ib</hi>
+               </item>
+               <item>Reference to the Commission anent Intruders <hi>&amp;c. Ib</hi>
+               </item>
+               <item>Reference to the Commission, to consider the Representation sent from <hi>Murray. Ib</hi>
+               </item>
+               <item>Upon the desire of the Directors of the <hi>African</hi> and <hi>Indian</hi> Com<g ref="char:EOLhyphen"/>pany, The General Assembly Recommends to all Ministers, to pray for the Preservation and Successe of these sent by the saids Directors to remote places. <hi>Ib.</hi>
+               </item>
+               <item>Reference to the Commission, to name Twenty Probationers for the <hi>North. Sess.</hi> 18</item>
+               <item>Report anent the dates of Commissions <hi>&amp;c.</hi> with a Recommen<g ref="char:EOLhyphen"/>dation to Presbytries, to observe more punctually, the 6 Act of the General Assembly. 1698 <hi>Sess.</hi> 4 &amp; 18</item>
+               <item>Reference to the Commission anent an address to the Lords of Theasury in favours of <hi>Orknay. Sess.</hi> 18 &amp; <hi>ultima</hi>
+               </item>
+               <item>Refetence to the Commission anent Mr. <hi>Charles Gordons</hi> going to <hi>Aberdeen,</hi> and Mr. <hi>John Curries</hi> going to <hi>Murray,</hi> and anent the Supply of the <hi>North. Ib</hi>
+               </item>
+               <pb facs="tcp:108667:18"/>
+               <item>Act attesting the Visitors approbation of the Synod Book of <hi>Gal<g ref="char:EOLhyphen"/>loway. Sess.</hi> 18</item>
+               <item>Reference to the Commission, to address the Commission of Parliament, for plantation of Kirks <hi>&amp;c. Ib</hi>
+               </item>
+               <item>Recommendation anent the Collections for Building the Bridges of <hi>Lanerk</hi> and <hi>Ancrum. Ib</hi>
+               </item>
+               <item>Reference to the Commission anent the Petition of Mr. <hi>John Lyon,</hi> for reception to Ministerial Communion. <hi>Ib</hi>
+               </item>
+               <item>Reference to the Commission of the Petitions of Mr. <hi>Hugh Cla<g ref="char:EOLhyphen"/>nie,</hi> Mr. <hi>Walter Menzies</hi> and Mr. <hi>William Abercromby,</hi> three Ministers deposed. <hi>Ib</hi>
+               </item>
+               <item>Reference to the Commission, anent <hi>John Sharp</hi> of <hi>Hodom. Ib</hi>
+               </item>
+               <item>Reference to the Commission of the Petition of <hi>Creiff Ib</hi>
+               </item>
+               <item>Reference to the Commission, anent the Petition of <hi>Mr. Pa<g ref="char:EOLhyphen"/>trick Lyon,</hi> for reception to Ministerial Communion. <hi>Ib</hi>
+               </item>
+               <item>Reference to the Commission anent the Transportation of <hi>Mr. Alexander Glass,</hi> from <hi>Auchtermouchty</hi> to <hi>Meegle. Ib</hi>
+               </item>
+               <item>Reference to the Commission, anent Mrs. <hi>John Dempster,</hi> and <hi>Patrick Strauchan,</hi> their Processes. <hi>Ib</hi>
+               </item>
+               <item>Reference to the Commission anent the form of process. <hi>Ib</hi>
+               </item>
+               <item>Reference to the Commission anent old Scandals, and Scandals committed out of the Kingdom, by persons now residing therein, and Education of Youth. <hi>&amp;c. Ib</hi>
+               </item>
+               <item>Reference to the Commission to address the King in favours of the <hi>North, Highlands, Caithness</hi> and <hi>Orknay, &amp;c.</hi> And to write to the Viscount of <hi>Seafeild,</hi> for his Lordships assistance and concurrence therein, <hi>Ib</hi>
+               </item>
+               <item>Reference to the Commission, of all affairs that were depend<g ref="char:EOLhyphen"/>ing before the last Commission, yet undiscussed particularly, the references made thereto by the Committee sent last year to <hi>Ross, Sutherland, Caithness</hi> and <hi>Orknay. Ib</hi>
+               </item>
+               <item>Reference to the Commission, of the Petition of Mr. <hi>James Hutcheson,</hi> lately Minister at <hi>Grayfriers</hi> Kirk of <hi>Edinburgh,</hi> for taking off a sentence of Deposition, and receiving him to Ministerial Communion. <hi>Ib</hi>
+               </item>
+               <item>Act appointing Mr. <hi>Robert Clelland,</hi> and Mr. <hi>John Wilson</hi> Mi<g ref="char:EOLhyphen"/>nisters to stay out four Moneths in the Province of <hi>Angus</hi> and <hi>Merns,</hi> Supplying Vacances. <hi>Ib</hi>
+               </item>
+               <item>Reference to the Commission, anent Mr. <hi>Hector Fraser</hi> Proba<g ref="char:EOLhyphen"/>tioner his going to <hi>Ross,</hi> and <hi>Sutherland. Ib</hi>
+               </item>
+               <item>Reference to the Commission, anent the Synod Book of <hi>Drum<g ref="char:EOLhyphen"/>frees. Ib</hi>
+               </item>
+               <item>Reference to the Commission anent Witchcraft, Charming <hi>&amp;c.</hi> Masquarads, Balls, Stage-playes. <hi>Ib</hi>
+               </item>
+               <item>Reference to the Commission anent the Petition of some Mini<g ref="char:EOLhyphen"/>sters in <hi>Angus</hi> and <hi>Merns,</hi> for part of the Money gifted by the King to help to defray their publick Charges, anent the Churches affairs. <hi>Ib</hi>
+               </item>
+               <item>Recommendation to Presbytries to Supply the Charges of Mini<g ref="char:EOLhyphen"/>sters
+<pb facs="tcp:108667:18"/>that are members of the Commission during their atten<g ref="char:EOLhyphen"/>dance thereon. <hi>Ib</hi>
+               </item>
+               <item>Recommendation in favours of <hi>Linlithgow, Leith, Airth</hi> and <hi>Clackmanon,</hi> anent their being speedily planted. <hi>Ib</hi>
+               </item>
+               <item>Act declaring all appeals made to this Assembly, and not in<g ref="char:EOLhyphen"/>sisted in, Null. <hi>Sess.</hi> 18 &amp; <hi>ult.</hi>
+               </item>
+               <item>The Moderator and Commissioners Speeches at the closs of the Assembly.</item>
+               <item>Committee for Revising the Minute, and ordering the Print<g ref="char:EOLhyphen"/>ing of the Acts of this Assembly. <hi>Ib</hi>
+               </item>
+            </list>
+         </div>
+         <div type="overtures">
+            <head>OVERTURES, <hi>Transmitted by the General Assembly</hi> 1699, <hi>to the several Presbytries within this National Church, that they may consisder the same, and send their Opinion thereanent to the next General As<g ref="char:EOLhyphen"/>sembly, who may pass the same in Acts, if the more general Opinion of this Church agree thereunto.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>I. <hi>Overtures anent Revising of the Registers of Church-Judicatories</hi>
+               </head>
+               <head type="sub">Edinburgh, 24. January 1699. <hi>Post merid.</hi> Sess. 4.</head>
+               <p>THE which Day, The Overtures under-written being brought in, from the Committee for Overtures, was Read in presence of the General Assembly. The Tenor where<g ref="char:EOLhyphen"/>of follows.</p>
+               <p>It is Overtur'd that the General Assembly, considering the great import to this Church, that all its Registers be exact and well kept; Do require all Provincial Synods and Presbytries, to be careful in revising of Registers of the Judicatories, under their immediat inspection, And that they may appoint the most fit and experienced Brethren for that work, and that when they find nothing to challenge in any Register, they give the same the attestation following.</p>
+               <p>
+                  <q>The Provincial Synod of—having heard the Report of the Brethren appointed to revise the Presbytry Book of —and having heard their Remarks thereupon, and the saids Presbytries Answers thereto, and it having been enquir<g ref="char:EOLhyphen"/>ed by the Moderator, if any other had any Complaints to make against the Actings of the said Presbytry, and nothing appearing Censurable, Ordered their Clerk to attest this in their Presbytry Book.</q>
+               </p>
+               <pb facs="tcp:108667:19"/>
+               <p>And so for the Registers of Provincial Synods, and Kirk Sessions <hi>Mutatis Mutandis.</hi>
+               </p>
+               <p>The abovewritten Overtures being read and considered, the General Assembly transmitted the same to the several Pres<g ref="char:EOLhyphen"/>bytries within this National Church, to be considered against the next General Assembly.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>Overtures anent School-Masters,</hi> &amp;c.</head>
+               <head type="sub">Edinburgh, 27 January 1699. <hi>Post merid.</hi> Sess. 8.</head>
+               <p>THE which Day there was brought in from the Com<g ref="char:EOLhyphen"/>mittee for Overtures, the Overture following <hi>viz.</hi>
+               </p>
+               <p>That all Presbytries take special, particular and exact notice of all School-Masters, Chaplains, Governours, and Paedagogues of Youth within their respective bounds, who Teach Errone<g ref="char:EOLhyphen"/>ous Principles, or are not careful to Educat these under their charge in the Protestant Reformed Religion, or that are guilty of Immoralities, particularly of Sabbath-breaking, <hi>&amp;c.</hi> And that Masters of Colledges take care, and use their Authority for the same ends, that the Delinquents may be processed by the Respective Presbytries, and Censured upon clear evidences of their guilt.</p>
+               <p>The above Overture being read and considered by the Gene<g ref="char:EOLhyphen"/>ral Assembly, they transmitted the same to the several Presby<g ref="char:EOLhyphen"/>tries within this National Church, to be considered, against the next General Assembly.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>Overture against Witch-craft, Charming</hi> &amp;c.</head>
+               <head type="sub">Edinburgh, January 30. 1699. <hi>post merid.</hi> Sess. 10.</head>
+               <q>
+                  <p>THE which Day, There was brought in from the Com<g ref="char:EOLhyphen"/>mittee for Overtures, a Representation anent diverse Lamentable accounts of effects of Witch-craft, charged upon several persons, and the said Committee gave it as their Opi<g ref="char:EOLhyphen"/>nion, that it is fit, that former Acts of General Assemblies con<g ref="char:EOLhyphen"/>cerning Witch-craft were revived, and Recommended to the
+<pb facs="tcp:108667:19"/>care of all Presbytries, particularly Act Assembly 1640. <hi>July</hi> 29. <hi>Sess.</hi> 2. Assembly 1643. <hi>August</hi> 19, <hi>Sess. ult.</hi> and Assem<g ref="char:EOLhyphen"/>bly 1649. <hi>August</hi> 6. <hi>Sess. ult.</hi>
+                  </p>
+                  <p n="2">2. And that it were worthy of the Assemblies consideration to think upon, and prescribe some uniform method, for cen<g ref="char:EOLhyphen"/>suring Ecclesiastically such as shall be convict of Witch-craft or Charming and their Consulters who escape the civil punish<g ref="char:EOLhyphen"/>ment.</p>
+               </q>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>Overture anent Scandalous and Contumacious Persons.</hi>
+               </head>
+               <head type="sub">Edinburgh, 3 February 1699. <hi>post merid.</hi> Sess. 17.</head>
+               <p>THE General Assembly having heard an Overture, That the Names of Scandalous Persons of whatever quality, guilty of gross immoralities and contumacious to Church-Discipline, be sent in to the Commission, or General Assembly, by the Clerks of the Respective Synods, with an full Extract of the Proces against them, and that they proceed against them as they see cause. Which Overture being consi<g ref="char:EOLhyphen"/>dered, the General Assembly transmits the same, to the several Presbytries, to be considered against the next General Assem<g ref="char:EOLhyphen"/>bly.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V. <hi>Overture anent the Emolumentary Writes of Ministers, Kirks, School-Masters,</hi> &amp;c.</head>
+               <head type="sub">Eadem Sessione.</head>
+               <p>THE General Assembly having heard an Overture anent the Emolumentary Writes of Ministers, School-Masters, Church<g ref="char:EOLhyphen"/>es, and the Poor of Parishes, do transmit the same to the considera<g ref="char:EOLhyphen"/>tion of the several Presbytries within this National Church, to be ripned against the next General Assembly. The Tenor where<g ref="char:EOLhyphen"/>of follows.</p>
+               <p>That all Ministers be appointed to exhibit to their respective Presbytries, their Decreets of Modification or Locality that they now have, with all Emolumentary Writes that belong to their Respective Kirks, and their Sessions, and that they Subscribe an Inventary thereof, with an obligement to make them forth<g ref="char:EOLhyphen"/>coming,
+<pb facs="tcp:108667:20"/>bearing Registration, and the said obligement be Re<g ref="char:EOLhyphen"/>gistred in the Books of Council and Session, as well as the In<g ref="char:EOLhyphen"/>ventary and Obligement in the Books of the Presbytry of the Bounds. <hi>Item,</hi> That all the said Emolumentary Writes, not bearing Registration be Registred, conform to the late Act of Parliament, and if they bear Registration, that they be Regi<g ref="char:EOLhyphen"/>stred accordingly: And that all the saids Registrations be made upon the Expences of the Session-Box, in so far as con<g ref="char:EOLhyphen"/>cerns the Poor. <hi>Item,</hi> It would be convenient, that the Lord Register be applyed to, to appoint a particular Register in each of the three Clerks of Sessions Chamber, for the more easy searching and finding of the saids Papers so Registred. <hi>Item,</hi> That the dates of the Registrations be marked in the Inventary, As likewayes that the dates of the Registration of the said Oblig<g ref="char:EOLhyphen"/>ment be Recorded in the Presbytry Book.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. <hi>Overtures anent the making of Acts, and due care to observe them when made.</hi>
+               </head>
+               <head type="sub">Edinburgh February 4. 1699. <hi>ante merid</hi> Sess. 18. <hi>&amp; ult.</hi>
+               </head>
+               <p n="1">1. THAT when any thing of publick concern, and of great weight is proposed to the General Assembly, to be past as Overtures or Acts, after the first Reading, it be delayed till the next next day of the Assemblies sitting, and ly on the Table to be seen and considered by all the Members.</p>
+               <p n="2">2. That when any thing is past as Overtures by the Gene<g ref="char:EOLhyphen"/>ral, Assembly, it be ordained, that all and every Presbytry read them publickly in their Presbyterial Meeting, once before the first Meeting of the Synod next after the General Assembly, and that they consider of them, and that this be Record<g ref="char:EOLhyphen"/>ed in their Presbytry Book, and enquired into by their Sy<g ref="char:EOLhyphen"/>nods in visiting Presbytry Books: As also, It be recommended to all Presbytries, to send in an account of their Judgement and opinion thereanent, with their Commissioners to the General Assembly in Write, but as breifly as may be, and the Overtures to be Printed after the Acts.</p>
+               <p n="3">3. That each Minister and Session have a Copy of all the Printed Acts of the General Assembly, and that the Presby<g ref="char:EOLhyphen"/>tries enquire into this at Visitations.</p>
+               <p n="4">4. That an Alphabetical Index be drawn of the Acts of the General Assemblies.</p>
+            </div>
+            <div n="7" type="part">
+               <pb facs="tcp:108667:20"/>
+               <head>VII. <hi>Overture Discharging the Printing of any Paper to be presented to the Assembly without Allowance.</hi>
+               </head>
+               <head type="sub">Eadem Sessione.</head>
+               <p>THAT no person presume to print any Petition, Address, Appeal, Reasons or Answers, or any other part of any Proces, brought in to the General Assembly, or any other Church Judicatory, without leave given by the Respe<g ref="char:EOLhyphen"/>ctive Judicatories before whom the same is in dependence, with Certification that no respect shall be had thereto, in case they contraveen this, by reading or considering the same.</p>
+               <p>The General Assembly having considered the saids Overtures, did and hereby do transmit the same to the consideration of the several Presbytries, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII. <hi>Overtures anent Censuring Scandalous Persons.</hi>
+               </head>
+               <head type="sub">Eadem Sessione.</head>
+               <p>THE General Assembly transmits to the several Presby<g ref="char:EOLhyphen"/>tries within this National Church, the Overtures con<g ref="char:EOLhyphen"/>cerning the method and form of procedure of the Judicatories of the Church, against Scandalous Persons, which Overtures are printed at the end of the <hi>Index of the Ʋnprinted Acts of the Ge<g ref="char:EOLhyphen"/>neral Assembly</hi> 1698. being agreed to, by the Commission there<g ref="char:EOLhyphen"/>of; And it is Recommended to Presbytries, to consider the saids Overtures, and send their Opinion thereanent to the next General Assembly.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX. <hi>Overtures anent Papists.</hi>
+               </head>
+               <head type="sub">Eadem Sessione.</head>
+               <p>IT is Overtur'd, That a privat acknowledgement of a Papist Renounceing that Religion Verbally, is not sufficient to ad<g ref="char:EOLhyphen"/>mit them to Church priviledges, but that Presbytries do in this, what may tend most to the gaining of the party concerned, and for the edification of the Church.</p>
+               <p>The General Assembly transmits this Overture to the consi<g ref="char:EOLhyphen"/>tion of the several Presbytries.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
